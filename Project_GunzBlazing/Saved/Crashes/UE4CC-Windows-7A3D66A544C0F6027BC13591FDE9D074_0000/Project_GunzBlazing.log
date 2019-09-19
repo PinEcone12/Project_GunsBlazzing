@@ -1,0 +1,1192 @@
+﻿Log file open, 09/18/19 10:15:45
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Project_GunzBlazing
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.395846
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithDataPrepEditor
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.09.18-15.15.46:082][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.18-15.15.46:082][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.18-15.15.46:083][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Config/Windows/Engine.ini]
+[2019.09.18-15.15.46:083][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.18-15.15.46:083][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Config/Windows/Engine.ini]
+[2019.09.18-15.15.46:083][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Config/Windows/Engine.ini]
+[2019.09.18-15.15.46:083][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.18-15.15.46:083][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.18-15.15.46:083][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.18-15.15.46:083][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.18-15.15.46:083][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.18-15.15.46:083][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.18-15.15.46:083][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.18-15.15.46:083][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.18-15.15.46:083][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.18-15.15.46:083][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.18-15.15.46:083][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.18-15.15.46:083][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.18-15.15.46:083][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.18-15.15.46:083][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Config/Windows/Engine.ini]
+[2019.09.18-15.15.46:083][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.18-15.15.46:083][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.18-15.15.46:084][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.18-15.15.46:084][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.18-15.15.46:084][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.18-15.15.46:084][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.18-15.15.46:084][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.18-15.15.46:084][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.18-15.15.46:084][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.18-15.15.46:084][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.18-15.15.46:084][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.18-15.15.46:084][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.18-15.15.46:084][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.18-15.15.46:084][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Config/Windows/Engine.ini]
+[2019.09.18-15.15.46:084][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Config/Windows/Engine.ini]
+[2019.09.18-15.15.46:091][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Config/Windows/Scalability.ini]
+[2019.09.18-15.15.46:091][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.18-15.15.46:091][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.18-15.15.46:091][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Config/Windows/Scalability.ini]
+[2019.09.18-15.15.46:091][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.18-15.15.46:091][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Config/Windows/Scalability.ini]
+[2019.09.18-15.15.46:091][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.18-15.15.46:091][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.18-15.15.46:091][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.18-15.15.46:091][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.18-15.15.46:091][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.18-15.15.46:092][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.18-15.15.46:092][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.18-15.15.46:092][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.18-15.15.46:092][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.18-15.15.46:092][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.18-15.15.46:092][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.18-15.15.46:092][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.18-15.15.46:092][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.18-15.15.46:092][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.18-15.15.46:092][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.18-15.15.46:092][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.18-15.15.46:092][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.18-15.15.46:092][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.18-15.15.46:092][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Config/Windows/Scalability.ini]
+[2019.09.18-15.15.46:092][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.18-15.15.46:092][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.18-15.15.46:092][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.18-15.15.46:092][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.18-15.15.46:092][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.18-15.15.46:092][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.18-15.15.46:092][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.18-15.15.46:093][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.18-15.15.46:093][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.18-15.15.46:093][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.18-15.15.46:093][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.18-15.15.46:093][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.18-15.15.46:093][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.18-15.15.46:093][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.18-15.15.46:093][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.18-15.15.46:093][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.18-15.15.46:093][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.18-15.15.46:093][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.18-15.15.46:093][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.18-15.15.46:093][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.18-15.15.46:093][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.18-15.15.46:093][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.18-15.15.46:093][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.18-15.15.46:093][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.18-15.15.46:093][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.18-15.15.46:093][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.18-15.15.46:093][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.18-15.15.46:094][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.18-15.15.46:094][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.18-15.15.46:094][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.18-15.15.46:094][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Config/Windows/Scalability.ini]
+[2019.09.18-15.15.46:094][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.18-15.15.46:094][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.18-15.15.46:094][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.18-15.15.46:094][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.18-15.15.46:094][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.18-15.15.46:094][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.18-15.15.46:094][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.18-15.15.46:094][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.18-15.15.46:094][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Config/Windows/Scalability.ini]
+[2019.09.18-15.15.46:094][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.18-15.15.46:094][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.18-15.15.46:094][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.18-15.15.46:094][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.18-15.15.46:094][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.18-15.15.46:094][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.18-15.15.46:094][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.18-15.15.46:094][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.18-15.15.46:094][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.18-15.15.46:095][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.18-15.15.46:095][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.18-15.15.46:095][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.18-15.15.46:095][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.18-15.15.46:095][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Config/Windows/Scalability.ini]
+[2019.09.18-15.15.46:095][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.18-15.15.46:095][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.18-15.15.46:095][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.18-15.15.46:095][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.18-15.15.46:109][  0]LogHAL: Display: Platform has ~ 32 GB [34187210752 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.18-15.15.46:109][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.09.18-15.15.46:109][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.18-15.15.46:109][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Config/Windows/Scalability.ini]
+[2019.09.18-15.15.46:109][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.18-15.15.46:109][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.18-15.15.46:109][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Config/Windows/Scalability.ini]
+[2019.09.18-15.15.46:109][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.18-15.15.46:109][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Config/Windows/Scalability.ini]
+[2019.09.18-15.15.46:109][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.18-15.15.46:109][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.18-15.15.46:109][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.18-15.15.46:109][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.18-15.15.46:109][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.18-15.15.46:109][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.18-15.15.46:109][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.18-15.15.46:109][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.18-15.15.46:109][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Config/Windows/Scalability.ini]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Config/Windows/Scalability.ini]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Config/Windows/Scalability.ini]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Config/Windows/Scalability.ini]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.18-15.15.46:110][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Config/Windows/Engine.ini]
+[2019.09.18-15.15.46:110][  0]LogInit: Computer: 25-D224
+[2019.09.18-15.15.46:110][  0]LogInit: User: 25D224
+[2019.09.18-15.15.46:110][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.09.18-15.15.46:110][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.09.18-15.15.46:111][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2019.09.18-15.15.46:111][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.18-15.15.46:111][  0]LogMemory: Process Physical Memory: 96.63 MB used, 96.63 MB peak
+[2019.09.18-15.15.46:111][  0]LogMemory: Process Virtual Memory: 89.64 MB used, 89.64 MB peak
+[2019.09.18-15.15.46:111][  0]LogMemory: Physical Memory: 4995.95 MB used,  27607.52 MB free, 32603.46 MB total
+[2019.09.18-15.15.46:111][  0]LogMemory: Virtual Memory: 4674.63 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.09.18-15.15.46:122][  0]LogInit: Using OS detected language (en-US).
+[2019.09.18-15.15.46:122][  0]LogInit: Using OS detected locale (en-US).
+[2019.09.18-15.15.46:122][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.09.18-15.15.46:231][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.18-15.15.46:254][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.18-15.15.46:254][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.18-15.15.46:363][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.18-15.15.46:363][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.18-15.15.46:382][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.09.18-15.15.46:382][  0]LogD3D11RHI:       128/0/16301 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.09.18-15.15.46:384][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.18-15.15.46:384][  0]LogD3D11RHI:       0/0/16301 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.18-15.15.46:384][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.18-15.15.46:387][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.18-15.15.46:387][  0]LogD3D11RHI:     GPU DeviceId: 0x3e92 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.18-15.15.46:387][  0]LogWindows: EnumDisplayDevices:
+[2019.09.18-15.15.46:387][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.09.18-15.15.46:387][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.09.18-15.15.46:387][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.09.18-15.15.46:388][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.09.18-15.15.46:388][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 630
+[2019.09.18-15.15.46:388][  0]LogD3D11RHI:   Driver Version: 25.20.100.6617 (internal:25.20.100.6617, unified:25.20.100.6617)
+[2019.09.18-15.15.46:388][  0]LogD3D11RHI:      Driver Date: 3-8-2019
+[2019.09.18-15.15.46:388][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2019.09.18-15.15.46:408][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.18-15.15.46:410][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.18-15.15.46:411][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.18-15.15.46:411][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.18-15.15.46:412][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2019.09.18-15.15.46:622][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.18-15.15.46:636][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.18-15.15.46:646][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.18-15.15.46:656][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.18-15.15.46:666][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.18-15.15.46:676][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.18-15.15.46:686][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.18-15.15.46:695][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.18-15.15.46:699][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.18-15.15.46:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.18-15.15.46:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.18-15.15.46:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.18-15.15.46:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.18-15.15.46:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.18-15.15.46:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.18-15.15.46:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.18-15.15.46:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.18-15.15.46:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.18-15.15.46:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.18-15.15.46:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.18-15.15.46:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.18-15.15.46:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.18-15.15.46:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.18-15.15.46:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.18-15.15.46:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.18-15.15.46:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.18-15.15.46:757][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.18-15.15.46:759][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.18-15.15.46:812][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.18-15.15.46:812][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.18-15.15.46:830][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.18-15.15.46:831][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.18-15.15.46:839][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.09.18-15.15.46:848][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.09.18-15.15.46:856][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.09.18-15.15.46:865][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.09.18-15.15.46:897][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.18-15.15.46:897][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.18-15.15.46:897][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.18-15.15.46:903][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.18-15.15.46:936][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Intermediate/Shaders/WorkingDirectory/6312/).
+[2019.09.18-15.15.46:936][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/25.D224/AppData/Local/Temp/UnrealShaderWorkingDir/687D4A6D44751C756B4A89ADA801A068/'.
+[2019.09.18-15.15.46:937][  0]LogXGEController: Cleaning working directory: C:/Users/25.D224/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.09.18-15.15.46:937][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.18-15.15.46:937][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.18-15.15.46:937][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.18-15.15.47:352][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.18-15.15.47:389][  0]LogDerivedDataCache: Loaded boot cache 0.04s 72MB C:/Users/25.D224/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.18-15.15.47:389][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/25.D224/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.09.18-15.15.47:389][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.18-15.15.47:389][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.18-15.15.47:389][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.18-15.15.47:389][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.18-15.15.47:398][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.18-15.15.47:401][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.09.18-15.15.47:413][  0]LogDerivedDataCache: Using Local data cache path C:/Users/25.D224/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.18-15.15.47:413][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.18-15.15.47:413][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.18-15.15.47:429][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.18-15.15.47:430][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.18-15.15.47:430][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.18-15.15.47:500][  0]LogAssetRegistry: FAssetRegistry took 0.0319 seconds to start up
+[2019.09.18-15.15.47:725][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.18-15.15.47:823][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.18-15.15.47:823][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.18-15.15.47:823][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.18-15.15.47:823][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.18-15.15.47:823][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.18-15.15.47:830][  0]LogNetVersion: Project_GunzBlazing 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 392623841)
+[2019.09.18-15.15.48:115][  0]LogPackageLocalizationCache: Processed 16 localized package path(s) for 1 prioritized culture(s) in 0.033827 seconds
+[2019.09.18-15.15.48:119][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.09.18-15.15.48:119][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.09.18-15.15.48:119][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.18-15.15.48:692][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.18-15.15.48:707][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.18-15.15.48:821][  0]SourceControl: Source control is disabled
+[2019.09.18-15.15.48:821][  0]SourceControl: Source control is disabled
+[2019.09.18-15.15.48:822][  0]SourceControl: Source control is disabled
+[2019.09.18-15.15.48:823][  0]SourceControl: Source control is disabled
+[2019.09.18-15.15.48:893][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.18-15.15.48:938][  0]LogOcInput: OculusInput pre-init called
+[2019.09.18-15.15.50:429][  0]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2019.09.18-15.15.50:429][  0]LogWindows: File 'libalias_api.dll' does not exist
+[2019.09.18-15.15.50:430][  0]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2019.09.18-15.15.50:430][  0]LogWindows: File 'libalias_api.dll' does not exist
+[2019.09.18-15.15.50:553][  0]LogEngine: Initializing Engine...
+[2019.09.18-15.15.50:553][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.18-15.15.50:554][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.09.18-15.15.50:706][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.18-15.15.50:717][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.18-15.15.50:725][  0]LogInit: XAudio2 using 'Dell S2716DG (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.18-15.15.50:741][  0]LogInit: FAudioDevice initialized.
+[2019.09.18-15.15.50:741][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.18-15.15.50:830][  0]LogDerivedDataCache: Saved boot cache 0.09s 72MB C:/Users/25.D224/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.18-15.15.50:844][  0]LogInit: Texture streaming: Enabled
+[2019.09.18-15.15.50:856][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.18-15.15.50:873][  0]LogInit: Transaction tracking system initialized
+[2019.09.18-15.15.50:889][  0]BlueprintLog: New page: Editor Load
+[2019.09.18-15.15.50:944][  0]LocalizationService: Localization service is disabled
+[2019.09.18-15.15.51:159][  0]LogFileCache: Scanning file cache for directory 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/' took 0.01s
+[2019.09.18-15.15.51:159][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.18-15.15.51:159][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.18-15.15.52:085][  0]SourceControl: Source control is disabled
+[2019.09.18-15.15.52:085][  0]Cmd: MAP LOAD FILE="D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.18-15.15.52:085][  0]LightingResults: New page: Lighting Build
+[2019.09.18-15.15.52:087][  0]MapCheck: New page: Map Check
+[2019.09.18-15.15.52:087][  0]LightingResults: New page: Lighting Build
+[2019.09.18-15.15.52:111][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.09.18-15.15.52:276][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.18-15.15.52:281][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.18-15.15.52:305][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.09.18-15.15.52:306][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.18-15.15.52:306][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.073ms to complete.
+[2019.09.18-15.15.52:306][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.221
+[2019.09.18-15.15.52:397][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.18-15.15.52:402][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.18-15.15.52:407][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.18-15.15.52:413][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.18-15.15.52:417][  0]LogCollectionManager: Loaded 0 collections in 0.001241 seconds
+[2019.09.18-15.15.52:431][  0]LogFileCache: Scanning file cache for directory 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Collections/' took 0.01s
+[2019.09.18-15.15.52:431][  0]LogFileCache: Scanning file cache for directory 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Developers/25D224/Collections/' took 0.00s
+[2019.09.18-15.15.52:431][  0]LogFileCache: Scanning file cache for directory 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Collections/' took 0.00s
+[2019.09.18-15.15.52:431][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.09.18-15.15.52:438][  0]LogContentBrowser: Native class hierarchy populated in 0.0069 seconds. Added 2864 classes and 726 folders.
+[2019.09.18-15.15.52:442][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.18-15.15.52:443][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.18-15.15.52:444][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.18-15.15.52:444][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.18-15.15.52:444][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.18-15.15.52:445][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.18-15.15.52:445][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.18-15.15.52:445][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.18-15.15.52:445][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.18-15.15.52:446][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.18-15.15.52:446][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.18-15.15.52:446][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.18-15.15.52:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.18-15.15.52:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.18-15.15.52:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.18-15.15.52:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.18-15.15.52:448][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.18-15.15.52:448][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.18-15.15.52:448][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.18-15.15.52:449][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.18-15.15.52:449][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.18-15.15.52:449][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.18-15.15.52:449][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.18-15.15.52:450][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.18-15.15.52:450][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.18-15.15.52:450][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.18-15.15.52:451][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.18-15.15.52:451][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.18-15.15.52:451][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.18-15.15.52:471][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.18-15.15.52:473][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2019.09.18-15.15.52:483][  0]LogSlate: Took 0.000097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.18-15.15.52:484][  0]LogSlate: Took 0.000081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.18-15.15.52:487][  0]LogSlate: Took 0.000095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.18-15.15.52:538][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2019.09.18-15.15.52:658][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.18-15.15.52:671][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.09.18-15.15.52:705][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.18-15.15.52:705][  0]LogLoad: (Engine Initialization) Total time: 8.17 seconds
+[2019.09.18-15.15.52:705][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.18-15.15.52:733][  0]LogAssetRegistry: Asset discovery search completed in 5.2554 seconds
+[2019.09.18-15.15.52:734][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.09.18-15.15.52:734][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000029 seconds (updated 0 objects)
+[2019.09.18-15.15.52:735][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.18-15.16.27:776][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.18-15.16.37:290][983]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.18-15.16.37:296][983]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Stuff/Items/BluePrints/Weapon_PickUp.Weapon_PickUp
+[2019.09.18-15.16.37:507][983]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.09.18-15.16.38:107][983]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.09.18-15.17.47:178][265]LogSlate: Window 'Weapon_PickUp' being destroyed
+[2019.09.18-15.36.57:640][757]LogSlate: Took 0.004000 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.09.18-15.37.06:680][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Chrome'
+[2019.09.18-15.37.06:680][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Chrome' while loading NULL.
+[2019.09.18-15.37.06:680][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Chrome'
+[2019.09.18-15.37.06:680][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Chrome' while loading NULL.
+[2019.09.18-15.37.06:680][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Chrome'
+[2019.09.18-15.37.06:680][124]LoadErrors: Failed to load /Game/Stuff/Weapons/Materials/Knife/M_Metal_Chrome.M_Metal_Chrome Referenced by KnifeBlade
+[2019.09.18-15.37.06:680][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Chrome' while loading NULL.
+[2019.09.18-15.37.06:680][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Chrome'
+[2019.09.18-15.37.06:680][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Chrome' while loading NULL.
+[2019.09.18-15.37.06:693][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Brushed_Nickel'
+[2019.09.18-15.37.06:693][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Brushed_Nickel' while loading NULL.
+[2019.09.18-15.37.06:693][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Copper'
+[2019.09.18-15.37.06:693][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Copper' while loading NULL.
+[2019.09.18-15.37.06:693][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Brushed_Nickel'
+[2019.09.18-15.37.06:693][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Brushed_Nickel' while loading NULL.
+[2019.09.18-15.37.06:693][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Copper'
+[2019.09.18-15.37.06:693][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Copper' while loading NULL.
+[2019.09.18-15.37.06:693][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Copper'
+[2019.09.18-15.37.06:694][124]LoadErrors: Failed to load /Game/Stuff/Weapons/Materials/Knife/M_Metal_Copper.M_Metal_Copper Referenced by KnifeBlade_2
+[2019.09.18-15.37.06:694][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Copper' while loading NULL.
+[2019.09.18-15.37.06:694][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Brushed_Nickel'
+[2019.09.18-15.37.06:694][124]LoadErrors: Failed to load /Game/Stuff/Weapons/Materials/Knife/M_Metal_Brushed_Nickel.M_Metal_Brushed_Nickel Referenced by KnifeBlade_2
+[2019.09.18-15.37.06:694][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Brushed_Nickel' while loading NULL.
+[2019.09.18-15.37.06:694][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Copper'
+[2019.09.18-15.37.06:694][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Copper' while loading NULL.
+[2019.09.18-15.37.06:694][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Brushed_Nickel'
+[2019.09.18-15.37.06:694][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Brushed_Nickel' while loading NULL.
+[2019.09.18-15.37.06:717][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Gold'
+[2019.09.18-15.37.06:717][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Gold' while loading NULL.
+[2019.09.18-15.37.06:717][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Tech_Hex_Tile_Pulse'
+[2019.09.18-15.37.06:717][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Tech_Hex_Tile_Pulse' while loading NULL.
+[2019.09.18-15.37.06:717][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Gold'
+[2019.09.18-15.37.06:717][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Gold' while loading NULL.
+[2019.09.18-15.37.06:717][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Tech_Hex_Tile_Pulse'
+[2019.09.18-15.37.06:717][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Tech_Hex_Tile_Pulse' while loading NULL.
+[2019.09.18-15.37.06:717][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Tech_Hex_Tile_Pulse'
+[2019.09.18-15.37.06:718][124]LoadErrors: Failed to load /Game/Stuff/Weapons/Materials/Knife/M_Tech_Hex_Tile_Pulse.M_Tech_Hex_Tile_Pulse Referenced by KnifeHandle
+[2019.09.18-15.37.06:718][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Tech_Hex_Tile_Pulse' while loading NULL.
+[2019.09.18-15.37.06:718][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Gold'
+[2019.09.18-15.37.06:718][124]LoadErrors: Failed to load /Game/Stuff/Weapons/Materials/Knife/M_Metal_Gold.M_Metal_Gold Referenced by KnifeHandle
+[2019.09.18-15.37.06:718][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Gold' while loading NULL.
+[2019.09.18-15.37.06:718][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Tech_Hex_Tile_Pulse'
+[2019.09.18-15.37.06:718][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Tech_Hex_Tile_Pulse' while loading NULL.
+[2019.09.18-15.37.06:718][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Gold'
+[2019.09.18-15.37.06:718][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Gold' while loading NULL.
+[2019.09.18-15.37.06:732][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Copper'
+[2019.09.18-15.37.06:732][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Copper' while loading NULL.
+[2019.09.18-15.37.06:732][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Water_Lake'
+[2019.09.18-15.37.06:732][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Water_Lake' while loading NULL.
+[2019.09.18-15.37.06:732][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Wood_Walnut'
+[2019.09.18-15.37.06:732][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Wood_Walnut' while loading NULL.
+[2019.09.18-15.37.06:732][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Copper'
+[2019.09.18-15.37.06:732][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Copper' while loading NULL.
+[2019.09.18-15.37.06:732][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Water_Lake'
+[2019.09.18-15.37.06:733][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Water_Lake' while loading NULL.
+[2019.09.18-15.37.06:733][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Wood_Walnut'
+[2019.09.18-15.37.06:733][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Wood_Walnut' while loading NULL.
+[2019.09.18-15.37.06:733][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Water_Lake'
+[2019.09.18-15.37.06:733][124]LoadErrors: Failed to load /Game/Stuff/Weapons/Materials/Knife/M_Water_Lake.M_Water_Lake Referenced by KnifeHandle_2
+[2019.09.18-15.37.06:733][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Water_Lake' while loading NULL.
+[2019.09.18-15.37.06:733][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Wood_Walnut'
+[2019.09.18-15.37.06:733][124]LoadErrors: Failed to load /Game/Stuff/Weapons/Materials/Knife/M_Wood_Walnut.M_Wood_Walnut Referenced by KnifeHandle_2
+[2019.09.18-15.37.06:733][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Wood_Walnut' while loading NULL.
+[2019.09.18-15.37.06:733][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Copper'
+[2019.09.18-15.37.06:733][124]LoadErrors: Failed to load /Game/Stuff/Weapons/Materials/Knife/M_Metal_Copper.M_Metal_Copper Referenced by KnifeHandle_2
+[2019.09.18-15.37.06:733][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Copper' while loading NULL.
+[2019.09.18-15.37.06:733][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Water_Lake'
+[2019.09.18-15.37.06:734][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Water_Lake' while loading NULL.
+[2019.09.18-15.37.06:734][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Wood_Walnut'
+[2019.09.18-15.37.06:734][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Wood_Walnut' while loading NULL.
+[2019.09.18-15.37.06:734][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Copper'
+[2019.09.18-15.37.06:734][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Copper' while loading NULL.
+[2019.09.18-15.37.06:746][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Gold'
+[2019.09.18-15.37.06:746][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Gold' while loading NULL.
+[2019.09.18-15.37.06:746][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Gold'
+[2019.09.18-15.37.06:746][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Gold' while loading NULL.
+[2019.09.18-15.37.06:746][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Gold'
+[2019.09.18-15.37.06:746][124]LoadErrors: Failed to load /Game/Stuff/Weapons/Materials/Knife/M_Metal_Gold.M_Metal_Gold Referenced by KnifeMisc
+[2019.09.18-15.37.06:746][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Gold' while loading NULL.
+[2019.09.18-15.37.06:746][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Gold'
+[2019.09.18-15.37.06:746][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Gold' while loading NULL.
+[2019.09.18-15.37.06:758][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Copper'
+[2019.09.18-15.37.06:758][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Copper' while loading NULL.
+[2019.09.18-15.37.06:758][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Copper'
+[2019.09.18-15.37.06:758][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Copper' while loading NULL.
+[2019.09.18-15.37.06:759][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Copper'
+[2019.09.18-15.37.06:759][124]LoadErrors: Failed to load /Game/Stuff/Weapons/Materials/Knife/M_Metal_Copper.M_Metal_Copper Referenced by KnifeMisc_2
+[2019.09.18-15.37.06:759][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Copper' while loading NULL.
+[2019.09.18-15.37.06:759][124]LogLinker: Warning: Can't find file '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Copper'
+[2019.09.18-15.37.06:759][124]LogLinker: Warning: Can't find file for asset '/Game/Stuff/Weapons/Materials/Knife/M_Metal_Copper' while loading NULL.
+[2019.09.18-15.37.06:788][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Weapon_PickUp.Weapon_PickUp_C' ref from Metadata '/Game/Stuff/Items/BluePrints/Weapon_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:788][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Weapon_PickUp.Weapon_PickUp:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Stuff/Items/BluePrints/Weapon_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:788][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Weapon_PickUp.Weapon_PickUp:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Stuff/Items/BluePrints/Weapon_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:788][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Weapon_PickUp.Weapon_PickUp:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Stuff/Items/BluePrints/Weapon_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:788][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Weapon_PickUp.Weapon_PickUp:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Stuff/Items/BluePrints/Weapon_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:788][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Weapon_PickUp.SKEL_Weapon_PickUp_C:ReceiveBeginPlay' ref from Metadata '/Game/Stuff/Items/BluePrints/Weapon_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:788][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Weapon_PickUp.SKEL_Weapon_PickUp_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Stuff/Items/BluePrints/Weapon_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:788][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Weapon_PickUp.SKEL_Weapon_PickUp_C:ReceiveTick' ref from Metadata '/Game/Stuff/Items/BluePrints/Weapon_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:788][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Weapon_PickUp.SKEL_Weapon_PickUp_C:DefaultSceneRoot' ref from Metadata '/Game/Stuff/Items/BluePrints/Weapon_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:788][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Weapon_PickUp.SKEL_Weapon_PickUp_C:Sphere' ref from Metadata '/Game/Stuff/Items/BluePrints/Weapon_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:788][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Weapon_PickUp.SKEL_Weapon_PickUp_C:UserConstructionScript' ref from Metadata '/Game/Stuff/Items/BluePrints/Weapon_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:788][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Weapon_PickUp.SKEL_Weapon_PickUp_C' ref from Metadata '/Game/Stuff/Items/BluePrints/Weapon_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:788][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Weapon_PickUp.Weapon_PickUp_C:DefaultSceneRoot' ref from Metadata '/Game/Stuff/Items/BluePrints/Weapon_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:788][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Weapon_PickUp.Weapon_PickUp_C:Sphere' ref from Metadata '/Game/Stuff/Items/BluePrints/Weapon_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:806][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:806][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:806][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:806][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:806][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:806][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:ReceiveBeginPlay' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:806][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:806][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:ReceiveTick' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:806][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:DefaultSceneRoot' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:806][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:Box' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:806][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_056' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:806][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_043' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:806][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_031' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:806][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_032' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:806][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_033' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:806][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_034' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:806][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_035' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:806][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_036' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:806][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_037' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:806][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_038' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:806][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_039' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:806][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_040' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:806][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_041' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:806][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_002' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:806][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_030' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:806][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_044' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_045' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_046' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_047' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_048' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_049' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_050' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_051' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_052' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_053' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_054' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_055' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_042' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:UserConstructionScript' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:DefaultSceneRoot' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:Box' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_056' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_043' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_031' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_032' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_033' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_034' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_035' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_036' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_037' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_038' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_039' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_040' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_041' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_002' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_030' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_044' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_045' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_046' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_047' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_048' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_049' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_050' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_051' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_052' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_053' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_054' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_055' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:807][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_042' ref from Metadata '/Game/Stuff/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:812][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Health_PickUp.Health_PickUp_C' ref from Metadata '/Game/Stuff/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:812][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Health_PickUp.Health_PickUp:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Stuff/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:812][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Health_PickUp.Health_PickUp:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Stuff/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:812][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Health_PickUp.Health_PickUp:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Stuff/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:812][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Health_PickUp.Health_PickUp:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Stuff/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:812][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Health_PickUp.SKEL_Health_PickUp_C:ReceiveBeginPlay' ref from Metadata '/Game/Stuff/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:812][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Health_PickUp.SKEL_Health_PickUp_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Stuff/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:812][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Health_PickUp.SKEL_Health_PickUp_C:ReceiveTick' ref from Metadata '/Game/Stuff/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:812][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Health_PickUp.SKEL_Health_PickUp_C:DefaultSceneRoot' ref from Metadata '/Game/Stuff/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:812][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Health_PickUp.SKEL_Health_PickUp_C:Box' ref from Metadata '/Game/Stuff/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:812][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Health_PickUp.SKEL_Health_PickUp_C:First_Aid_Kit_Caja01' ref from Metadata '/Game/Stuff/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:812][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Health_PickUp.SKEL_Health_PickUp_C:First_Aid_Kit_Ext-C01' ref from Metadata '/Game/Stuff/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:812][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Health_PickUp.SKEL_Health_PickUp_C:First_Aid_Kit_Plano02' ref from Metadata '/Game/Stuff/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:812][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Health_PickUp.SKEL_Health_PickUp_C:First_Aid_Kit_Plano03' ref from Metadata '/Game/Stuff/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:812][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Health_PickUp.SKEL_Health_PickUp_C:UserConstructionScript' ref from Metadata '/Game/Stuff/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:812][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Health_PickUp.SKEL_Health_PickUp_C' ref from Metadata '/Game/Stuff/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:812][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Health_PickUp.Health_PickUp_C:DefaultSceneRoot' ref from Metadata '/Game/Stuff/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:812][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Health_PickUp.Health_PickUp_C:Box' ref from Metadata '/Game/Stuff/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:812][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Health_PickUp.Health_PickUp_C:First_Aid_Kit_Caja01' ref from Metadata '/Game/Stuff/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:812][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Health_PickUp.Health_PickUp_C:First_Aid_Kit_Ext-C01' ref from Metadata '/Game/Stuff/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:812][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Health_PickUp.Health_PickUp_C:First_Aid_Kit_Plano02' ref from Metadata '/Game/Stuff/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.37.06:812][124]LogMetaData: Removing '/Game/Items/Items/BluePrints/Health_PickUp.Health_PickUp_C:First_Aid_Kit_Plano03' ref from Metadata '/Game/Stuff/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.37.07:066][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Items/BluePrints/Weapon_PickUp" FILE="D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/BluePrints/Weapon_PickUp.uasset" SILENT=true
+[2019.09.18-15.37.07:075][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Weapon_PickUp2CBC3F5D4502459922ECD5A4B290B16C.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/BluePrints/Weapon_PickUp.uasset'
+[2019.09.18-15.37.07:080][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Items/Default__Health_PickUp_C" FILE="D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Default__Health_PickUp_C.uasset" SILENT=true
+[2019.09.18-15.37.07:084][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Default__Health_PickUp_CA300244B4D395D74FC0A16B4F6053D3D.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Default__Health_PickUp_C.uasset'
+[2019.09.18-15.37.07:089][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Stuff/Items/Health_PickUp" FILE="D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Health_PickUp.uasset" SILENT=true
+[2019.09.18-15.37.07:094][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Health_PickUp306E80354175432A067C57A7A347C954.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Health_PickUp.uasset'
+[2019.09.18-15.37.07:097][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Items/Health_PickUp" FILE="D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Health_PickUp.uasset" SILENT=true
+[2019.09.18-15.37.07:101][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Health_PickUpEEAB28D94F0B78F6B193F2A285CFCEF5.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Health_PickUp.uasset'
+[2019.09.18-15.37.07:105][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Items/Health_PickUp_C" FILE="D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Health_PickUp_C.uasset" SILENT=true
+[2019.09.18-15.37.07:110][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Health_PickUp_C1FBC8A37465052CAFAD31281B0BC5357.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Health_PickUp_C.uasset'
+[2019.09.18-15.37.07:175][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Items/BluePrints/Ammo_PickUp" FILE="D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/BluePrints/Ammo_PickUp.uasset" SILENT=true
+[2019.09.18-15.37.07:214][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Ammo_PickUp682F7326408E0B9FBB008E8EA258A6C6.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/BluePrints/Ammo_PickUp.uasset'
+[2019.09.18-15.37.07:245][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Items/BluePrints/Health_PickUp" FILE="D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/BluePrints/Health_PickUp.uasset" SILENT=true
+[2019.09.18-15.37.07:261][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Health_PickUp8B0A76A14DE0422F8315D9B66331399B.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/BluePrints/Health_PickUp.uasset'
+[2019.09.18-15.37.07:296][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Items/Materials/Ammo/Brass" FILE="D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Materials/Ammo/Brass.uasset" SILENT=true
+[2019.09.18-15.37.07:308][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/BrassE948C3F94931C14B452419ACC8A49175.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Materials/Ammo/Brass.uasset'
+[2019.09.18-15.37.07:346][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Items/Materials/Ammo/Copper" FILE="D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Materials/Ammo/Copper.uasset" SILENT=true
+[2019.09.18-15.37.07:368][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Copper5524A0C143EA3216621579B8FC56E432.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Materials/Ammo/Copper.uasset'
+[2019.09.18-15.37.07:395][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Items/Materials/Ammo/Material__26" FILE="D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Materials/Ammo/Material__26.uasset" SILENT=true
+[2019.09.18-15.37.07:406][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Material__2644C0DB164F38664400E509B61B860594.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Materials/Ammo/Material__26.uasset'
+[2019.09.18-15.37.07:446][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Items/Materials/Ammo/Primer" FILE="D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Materials/Ammo/Primer.uasset" SILENT=true
+[2019.09.18-15.37.07:478][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/PrimerB42DDF36460F4347DC762BA09FE9C92D.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Materials/Ammo/Primer.uasset'
+[2019.09.18-15.37.07:520][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/02_-_Default4B5CCB23495A72864BBF32A7DCFE3D04.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Materials/Med-Kit/02_-_Default.uasset'
+[2019.09.18-15.37.07:559][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/03_-_Default341E3A5E4967F2D958F79BAC291190AA.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Materials/Med-Kit/03_-_Default.uasset'
+[2019.09.18-15.37.07:606][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Ammunition_Rack211257F64622AAE110ADD1BF68A1BAE5.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Materials/Med-Kit/Ammunition_Rack.uasset'
+[2019.09.18-15.37.07:672][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Ammuntion_Rack_00BE925FD74FB9DDD1C0961C8E80BA6FD3.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Ammo/7_62x39_Rounds_Ammuntion_Rack_001.uasset'
+[2019.09.18-15.37.07:720][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_002CC56667A45D8AB158741A0BF74CE287C.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_002.uasset'
+[2019.09.18-15.37.07:763][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_0303E5AC49C47FF080FC1ADE5A2C6627298.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_030.uasset'
+[2019.09.18-15.37.07:809][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_03179FDB9C248E0C091AA6CFA9BF1107FA2.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_031.uasset'
+[2019.09.18-15.37.07:855][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_032547CA6EF48E90102BDE274A3AB785147.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_032.uasset'
+[2019.09.18-15.37.07:909][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_0331A0B996B4254156BF267D998E7E9ACE7.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_033.uasset'
+[2019.09.18-15.37.07:955][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_03438838A6E44B333A209BCD2B74A85D477.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_034.uasset'
+[2019.09.18-15.37.08:001][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_035D421D7AF4305CBF67837059E32418ACB.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_035.uasset'
+[2019.09.18-15.37.08:046][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_036D669C8C8420C048129D43999346A2F8A.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_036.uasset'
+[2019.09.18-15.37.08:089][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_0377E890BED4F352893EEF00BAA28C73AF6.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_037.uasset'
+[2019.09.18-15.37.08:140][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_03849508F31489CC8B54103AC8F387340D4.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_038.uasset'
+[2019.09.18-15.37.08:184][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_03949C362074D06E35E74C43ABE287A801E.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_039.uasset'
+[2019.09.18-15.37.08:230][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_040AD3C56D74E2C034905025EA11341F097.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_040.uasset'
+[2019.09.18-15.37.08:273][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_041FD92C8B24602E8116DAEDBBF7C6DBD16.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_041.uasset'
+[2019.09.18-15.37.08:318][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_0427CFC26F8448025E50E88DE98D3838E27.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_042.uasset'
+[2019.09.18-15.37.08:362][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_0433F7BF47348BFF71EBFE0DD9D7947C308.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_043.uasset'
+[2019.09.18-15.37.08:409][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_044F745EA684309D4CC052105A2F478A30B.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_044.uasset'
+[2019.09.18-15.37.08:460][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_045D98151574B3E07E6C2839EA6938522B4.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_045.uasset'
+[2019.09.18-15.37.08:508][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_046C75AF9D848EFDCDB00DB78962C41FB0E.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_046.uasset'
+[2019.09.18-15.37.08:577][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_0470DDA3F80496A63A848FFCD9231CA50C8.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_047.uasset'
+[2019.09.18-15.37.08:623][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_0482CF3F5B04B2BD26F0935389AB2067446.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_048.uasset'
+[2019.09.18-15.37.08:672][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_049FE549631430714DC1EA88593751EEBB5.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_049.uasset'
+[2019.09.18-15.37.08:716][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_0503B417DC944C8204046EB19AAFFB7859F.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_050.uasset'
+[2019.09.18-15.37.08:760][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_051B4BF7DB046DB7ADFFFA884ADFE02B2E7.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_051.uasset'
+[2019.09.18-15.37.08:804][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_052A836D0B841CE512F90F0AAA089F7CBFA.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_052.uasset'
+[2019.09.18-15.37.08:848][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_0530FA4C1144A72B7F7AC0830B885EF93D3.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_053.uasset'
+[2019.09.18-15.37.08:892][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_054574156A942B5099FEAA05AA0EC1C7DFD.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_054.uasset'
+[2019.09.18-15.37.08:937][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_0557E06C5204ED46E1FD7CBF7BF0C978D4D.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_055.uasset'
+[2019.09.18-15.37.08:985][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_0563F7671F346CFA098EC626C9C1AFFDFD8.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_056.uasset'
+[2019.09.18-15.37.09:036][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/First_Aid_Kit_Caja01D5063CA64692C417DD645FB844024912.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Med-Kit/First_Aid_Kit_Caja01.uasset'
+[2019.09.18-15.37.09:100][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/First_Aid_Kit_Ext-C01D1B7D79E41825A707B6DD19A38D23111.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Med-Kit/First_Aid_Kit_Ext-C01.uasset'
+[2019.09.18-15.37.09:140][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/First_Aid_Kit_Plano02099CF1AC42EC4408023B299807AA660E.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Med-Kit/First_Aid_Kit_Plano02.uasset'
+[2019.09.18-15.37.09:204][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/First_Aid_Kit_Plano0338CE70864724D4F1681F09B4302E2F71.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Meshes/Med-Kit/First_Aid_Kit_Plano03.uasset'
+[2019.09.18-15.37.09:233][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Weapons/Meshes/Knife/KnifeBlade" FILE="D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Weapons/Meshes/Knife/KnifeBlade.uasset" SILENT=true
+[2019.09.18-15.37.09:249][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/KnifeBladeCAAEEC9343B3F49360272EB9A219588D.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Weapons/Meshes/Knife/KnifeBlade.uasset'
+[2019.09.18-15.37.09:275][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Weapons/Meshes/Knife/KnifeBlade_2" FILE="D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Weapons/Meshes/Knife/KnifeBlade_2.uasset" SILENT=true
+[2019.09.18-15.37.09:292][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/KnifeBlade_20EA9BC7E4EFE39CF877F65AD06C99420.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Weapons/Meshes/Knife/KnifeBlade_2.uasset'
+[2019.09.18-15.37.09:318][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Weapons/Meshes/Knife/KnifeHandle" FILE="D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Weapons/Meshes/Knife/KnifeHandle.uasset" SILENT=true
+[2019.09.18-15.37.09:335][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/KnifeHandleD563EAA44433AC8A11DC30B9F8F4D4A9.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Weapons/Meshes/Knife/KnifeHandle.uasset'
+[2019.09.18-15.37.09:362][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Weapons/Meshes/Knife/KnifeHandle_2" FILE="D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Weapons/Meshes/Knife/KnifeHandle_2.uasset" SILENT=true
+[2019.09.18-15.37.09:379][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/KnifeHandle_2903AE25E429D7E896EEED0A57345EF03.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Weapons/Meshes/Knife/KnifeHandle_2.uasset'
+[2019.09.18-15.37.09:406][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Weapons/Meshes/Knife/KnifeMisc" FILE="D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Weapons/Meshes/Knife/KnifeMisc.uasset" SILENT=true
+[2019.09.18-15.37.09:421][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/KnifeMisc448A276E48D5EE26612BAEBEC37F7A41.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Weapons/Meshes/Knife/KnifeMisc.uasset'
+[2019.09.18-15.37.09:448][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Weapons/Meshes/Knife/KnifeMisc_2" FILE="D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Weapons/Meshes/Knife/KnifeMisc_2.uasset" SILENT=true
+[2019.09.18-15.37.09:462][124]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/KnifeMisc_29F1868A94FD3A8E492B3538BE58EBC5E.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Weapons/Meshes/Knife/KnifeMisc_2.uasset'
+[2019.09.18-15.37.12:593][124]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.09.18-15.37.12:623][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.09.18-15.37.12:653][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.09.18-15.37.12:682][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.09.18-15.37.12:706][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.09.18-15.37.12:729][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.09.18-15.37.12:757][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.09.18-15.37.12:787][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.09.18-15.37.12:816][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.09.18-15.37.12:844][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.09.18-15.37.12:876][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.09.18-15.37.12:904][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.09.18-15.37.12:932][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.09.18-15.37.12:960][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.09.18-15.37.12:987][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.09.18-15.37.13:017][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.09.18-15.37.13:043][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.09.18-15.37.13:073][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.09.18-15.37.13:102][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.09.18-15.37.13:128][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.09.18-15.37.13:156][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.09.18-15.37.13:184][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.09.18-15.37.13:214][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.09.18-15.37.13:237][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.09.18-15.37.13:268][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.09.18-15.37.13:291][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.09.18-15.37.13:321][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.09.18-15.37.13:367][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.09.18-15.37.13:395][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.09.18-15.37.13:425][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.09.18-15.37.13:455][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.09.18-15.37.13:484][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.09.18-15.37.13:510][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.09.18-15.37.13:542][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.09.18-15.37.13:568][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.09.18-15.37.13:598][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.09.18-15.37.13:622][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.09.18-15.37.13:651][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.09.18-15.37.13:680][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.09.18-15.37.13:708][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.09.18-15.37.13:738][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.09.18-15.37.13:767][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.09.18-15.37.13:799][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.09.18-15.37.13:830][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.09.18-15.37.13:859][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.09.18-15.37.13:892][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.09.18-15.37.13:919][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.09.18-15.37.13:951][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.09.18-15.37.13:979][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.09.18-15.37.14:006][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.09.18-15.37.14:036][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.09.18-15.43.11:853][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Weapon_PickUp.Weapon_PickUp_C' ref from Metadata '/Game/Items/Items/BluePrints/Weapon_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:853][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Weapon_PickUp.Weapon_PickUp_C:DefaultSceneRoot' ref from Metadata '/Game/Items/Items/BluePrints/Weapon_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:853][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Weapon_PickUp.Weapon_PickUp_C:Sphere' ref from Metadata '/Game/Items/Items/BluePrints/Weapon_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:853][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Weapon_PickUp.SKEL_Weapon_PickUp_C' ref from Metadata '/Game/Items/Items/BluePrints/Weapon_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:853][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Weapon_PickUp.SKEL_Weapon_PickUp_C:ReceiveBeginPlay' ref from Metadata '/Game/Items/Items/BluePrints/Weapon_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:853][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Weapon_PickUp.SKEL_Weapon_PickUp_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Items/Items/BluePrints/Weapon_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:853][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Weapon_PickUp.SKEL_Weapon_PickUp_C:ReceiveTick' ref from Metadata '/Game/Items/Items/BluePrints/Weapon_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:853][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Weapon_PickUp.SKEL_Weapon_PickUp_C:DefaultSceneRoot' ref from Metadata '/Game/Items/Items/BluePrints/Weapon_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:853][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Weapon_PickUp.SKEL_Weapon_PickUp_C:Sphere' ref from Metadata '/Game/Items/Items/BluePrints/Weapon_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:853][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Weapon_PickUp.SKEL_Weapon_PickUp_C:UserConstructionScript' ref from Metadata '/Game/Items/Items/BluePrints/Weapon_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:853][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Weapon_PickUp.Weapon_PickUp:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Items/Items/BluePrints/Weapon_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:853][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Weapon_PickUp.Weapon_PickUp:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Items/Items/BluePrints/Weapon_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:853][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Weapon_PickUp.Weapon_PickUp:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Items/Items/BluePrints/Weapon_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:853][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Weapon_PickUp.Weapon_PickUp:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Items/Items/BluePrints/Weapon_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:886][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Health_PickUp.Health_PickUp_C' ref from Metadata '/Game/Items/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:886][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Health_PickUp.Health_PickUp_C:First_Aid_Kit_Plano02' ref from Metadata '/Game/Items/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:886][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Health_PickUp.Health_PickUp_C:First_Aid_Kit_Ext-C01' ref from Metadata '/Game/Items/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:886][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Health_PickUp.Health_PickUp_C:First_Aid_Kit_Caja01' ref from Metadata '/Game/Items/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:886][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Health_PickUp.Health_PickUp_C:Box' ref from Metadata '/Game/Items/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:886][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Health_PickUp.Health_PickUp_C:DefaultSceneRoot' ref from Metadata '/Game/Items/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:886][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Health_PickUp.Health_PickUp_C:First_Aid_Kit_Plano03' ref from Metadata '/Game/Items/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:886][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Health_PickUp.SKEL_Health_PickUp_C' ref from Metadata '/Game/Items/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:886][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Health_PickUp.SKEL_Health_PickUp_C:ReceiveBeginPlay' ref from Metadata '/Game/Items/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:886][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Health_PickUp.SKEL_Health_PickUp_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Items/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:886][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Health_PickUp.SKEL_Health_PickUp_C:ReceiveTick' ref from Metadata '/Game/Items/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:886][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Health_PickUp.SKEL_Health_PickUp_C:DefaultSceneRoot' ref from Metadata '/Game/Items/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:886][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Health_PickUp.SKEL_Health_PickUp_C:Box' ref from Metadata '/Game/Items/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:886][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Health_PickUp.SKEL_Health_PickUp_C:First_Aid_Kit_Caja01' ref from Metadata '/Game/Items/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:886][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Health_PickUp.SKEL_Health_PickUp_C:First_Aid_Kit_Ext-C01' ref from Metadata '/Game/Items/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:886][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Health_PickUp.SKEL_Health_PickUp_C:First_Aid_Kit_Plano02' ref from Metadata '/Game/Items/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:886][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Health_PickUp.SKEL_Health_PickUp_C:First_Aid_Kit_Plano03' ref from Metadata '/Game/Items/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:886][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Health_PickUp.SKEL_Health_PickUp_C:UserConstructionScript' ref from Metadata '/Game/Items/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:886][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Health_PickUp.Health_PickUp:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Items/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:886][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Health_PickUp.Health_PickUp:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Items/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:886][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Health_PickUp.Health_PickUp:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Items/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.43.11:886][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Health_PickUp.Health_PickUp:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Items/Items/BluePrints/Health_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:000][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:000][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_055' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:000][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_054' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:000][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_053' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:000][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_052' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:000][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_051' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:000][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_050' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:000][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_049' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:000][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_048' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:000][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_047' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:000][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_046' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_045' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_044' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_030' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_002' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_041' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_040' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_039' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_038' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_037' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_036' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_035' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_034' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_033' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_032' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_031' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_043' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_056' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:Box' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:DefaultSceneRoot' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp_C:7_62x39_Rounds_Cylinder_042' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:ReceiveBeginPlay' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:ReceiveTick' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:DefaultSceneRoot' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:Box' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_056' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_043' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_031' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_032' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_033' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_034' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_035' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_036' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_037' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_038' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_039' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_040' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_041' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_002' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_030' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_044' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_045' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_046' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_047' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_048' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_049' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_050' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_051' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_052' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_053' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_054' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_055' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:7_62x39_Rounds_Cylinder_042' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.SKEL_Ammo_PickUp_C:UserConstructionScript' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:001][981]LogMetaData: Removing '/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp.Ammo_PickUp:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Items/Items/BluePrints/Ammo_PickUp.PackageMetaData'
+[2019.09.18-15.43.12:052][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Weapon_PickUp8EF8CC564E286920B8DB77BE57B130A7.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/BluePrints/Weapon_PickUp.uasset'
+[2019.09.18-15.43.12:113][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/02_-_Default9D066C844EBBF4E50A27F4AA9F9C9EB1.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Materials/Med-Kit/02_-_Default.uasset'
+[2019.09.18-15.43.12:161][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/First_Aid_Kit_Caja01833C553F4340A072AA1507A99F9EACF4.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Med-Kit/First_Aid_Kit_Caja01.uasset'
+[2019.09.18-15.43.12:197][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/03_-_DefaultEA0C769F4E652C0AA9454E93CDDD744B.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Materials/Med-Kit/03_-_Default.uasset'
+[2019.09.18-15.43.12:248][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/First_Aid_Kit_Ext-C014BFB2783438C610EC97A6ABDFDC315D3.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Med-Kit/First_Aid_Kit_Ext-C01.uasset'
+[2019.09.18-15.43.12:283][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Material__2697FC5F8A497FB3A24AFDA8B9BEF5415D.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Materials/Ammo/Material__26.uasset'
+[2019.09.18-15.43.12:346][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/First_Aid_Kit_Plano02B203A4F34701A0219BD8908FF68D659C.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Med-Kit/First_Aid_Kit_Plano02.uasset'
+[2019.09.18-15.43.12:382][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/First_Aid_Kit_Plano032906318B41E8967BAD9128B04702F6DE.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Med-Kit/First_Aid_Kit_Plano03.uasset'
+[2019.09.18-15.43.12:451][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Health_PickUpD3799727461F084F411DD8B8FBC999FF.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/BluePrints/Health_PickUp.uasset'
+[2019.09.18-15.43.12:475][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Stuff/Items/Items/Materials/Ammo/Brass" FILE="D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Materials/Ammo/Brass.uasset" SILENT=true
+[2019.09.18-15.43.12:488][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/BrassDC4B9DE64F6FD625EF029788213D5B88.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Materials/Ammo/Brass.uasset'
+[2019.09.18-15.43.12:512][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Stuff/Items/Items/Materials/Ammo/Copper" FILE="D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Materials/Ammo/Copper.uasset" SILENT=true
+[2019.09.18-15.43.12:525][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Copper328C7CB34D00FD5FF360C7A13CA9939A.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Materials/Ammo/Copper.uasset'
+[2019.09.18-15.43.12:550][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Stuff/Items/Items/Materials/Ammo/Primer" FILE="D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Materials/Ammo/Primer.uasset" SILENT=true
+[2019.09.18-15.43.12:562][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Primer7B19E5534333C480C460B4B2834C1972.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Materials/Ammo/Primer.uasset'
+[2019.09.18-15.43.12:603][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_0023BE2E4714987FFC465F2D8A9EE5F1075.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_002.uasset'
+[2019.09.18-15.43.12:645][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_030535A7B134140C1A89453F69AB9D113C3.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_030.uasset'
+[2019.09.18-15.43.12:689][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_0319778AEE34C8D41423F25AE84A82E1D69.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_031.uasset'
+[2019.09.18-15.43.12:731][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_032BEE3152E40A0E53F2D0AEDB91776DE9D.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_032.uasset'
+[2019.09.18-15.43.12:778][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_0333BAF2F414831693B6FC2C0AA2FE72D51.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_033.uasset'
+[2019.09.18-15.43.12:819][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_034B59282F44BEB88C9D6225D914983B7DE.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_034.uasset'
+[2019.09.18-15.43.12:859][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_035A66CEFFC412AD7139F704F94E1F0AC12.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_035.uasset'
+[2019.09.18-15.43.12:902][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_03664A3AA354E3225CBF4565189B36AB9B6.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_036.uasset'
+[2019.09.18-15.43.12:969][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_0379DAC145E48F49398658B1F864243F3CD.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_037.uasset'
+[2019.09.18-15.43.13:011][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_03886C877664D607995994F219212B1C104.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_038.uasset'
+[2019.09.18-15.43.13:051][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_039C51B886448DE0BCD0577789B41DB3289.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_039.uasset'
+[2019.09.18-15.43.13:093][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_040A651445B4E91B365965DE28EDCF1EEED.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_040.uasset'
+[2019.09.18-15.43.13:135][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_041717D4B5244B81FFAFDB9B9927154D88A.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_041.uasset'
+[2019.09.18-15.43.13:180][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_04388B287A5427A038D8E10228F8B145B04.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_043.uasset'
+[2019.09.18-15.43.13:252][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_044DB6D5C064090BBD7182C0592AF865304.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_044.uasset'
+[2019.09.18-15.43.13:296][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_0456E2F8C70411D886EE3F24C96F83DF105.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_045.uasset'
+[2019.09.18-15.43.13:337][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_046707E23104D057F1EC35516BD66C74EDE.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_046.uasset'
+[2019.09.18-15.43.13:379][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_0477F8D6B2D4122623B62EC59B36724CE75.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_047.uasset'
+[2019.09.18-15.43.13:420][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_0489F9B5AC847540E4724832C92F3022AA2.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_048.uasset'
+[2019.09.18-15.43.13:462][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_04964942A574F6B1FDC22D542AE8C25904E.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_049.uasset'
+[2019.09.18-15.43.13:536][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_05041E2872E499E78748F1D0A917AC57CDB.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_050.uasset'
+[2019.09.18-15.43.13:581][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_0512F397DB24FFBD0B06EA51D96AE0DE6DC.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_051.uasset'
+[2019.09.18-15.43.13:622][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_052FC13D2404DFE922FF939C3B0EC364D1D.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_052.uasset'
+[2019.09.18-15.43.13:696][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_0531523D0964AD58FE26B3EF4801A8A36A1.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_053.uasset'
+[2019.09.18-15.43.13:740][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_054EA9A45894EB763AA8FF1F8BF45D60FA2.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_054.uasset'
+[2019.09.18-15.43.13:781][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_0556B112CC54B4C13F4E26F7DAF185CCEF6.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_055.uasset'
+[2019.09.18-15.43.13:823][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_056AB0E202D4387897B0BF151AEBA91363A.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_056.uasset'
+[2019.09.18-15.43.13:849][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Stuff/Items/Items/BluePrints/Ammo_PickUp" FILE="D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/BluePrints/Ammo_PickUp.uasset" SILENT=true
+[2019.09.18-15.43.13:882][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Ammo_PickUpFE5855BA417ECDB8E0FE75A83C54528C.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/BluePrints/Ammo_PickUp.uasset'
+[2019.09.18-15.43.13:919][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Ammunition_Rack9B34EF76440760756206DE8A856D160C.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Materials/Med-Kit/Ammunition_Rack.uasset'
+[2019.09.18-15.43.13:969][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Ammuntion_Rack_0068A5D92449930CB7ECF9BBBFD65342AB.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Ammo/7_62x39_Rounds_Ammuntion_Rack_001.uasset'
+[2019.09.18-15.43.14:010][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/7_62x39_Rounds_Cylinder_0428D2C586C4E0462D476607C8FC4C1BD1F.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Items/Meshes/Ammo/7_62x39_Rounds_Cylinder_042.uasset'
+[2019.09.18-15.43.14:051][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/KnifeBlade1BFBCB4849B2E8FCA00FC0AD12E4AE99.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Weapons/Meshes/Knife/KnifeBlade.uasset'
+[2019.09.18-15.43.14:092][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/KnifeBlade_2579BA2614DE5FAB112B6698F9A497B51.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Weapons/Meshes/Knife/KnifeBlade_2.uasset'
+[2019.09.18-15.43.14:133][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/KnifeHandle0F1256DD4BEFD753262A4D8D59BB12E9.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Weapons/Meshes/Knife/KnifeHandle.uasset'
+[2019.09.18-15.43.14:175][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/KnifeHandle_26348D0DF40C4DCD88EC5D49A6E02CDBA.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Weapons/Meshes/Knife/KnifeHandle_2.uasset'
+[2019.09.18-15.43.14:213][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/KnifeMisc383580E6473532FC87F942871B3E86E9.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Weapons/Meshes/Knife/KnifeMisc.uasset'
+[2019.09.18-15.43.14:259][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/KnifeMisc_24511FF3A4B4C06172A3841B74CF734CF.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Stuff/Items/Weapons/Meshes/Knife/KnifeMisc_2.uasset'
+[2019.09.18-15.43.17:449][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.09.18-15.43.17:478][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.09.18-15.43.17:505][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.09.18-15.43.17:534][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.09.18-15.43.17:566][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.09.18-15.43.17:598][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.09.18-15.43.17:631][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.09.18-15.43.17:666][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.09.18-15.43.17:702][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.09.18-15.43.17:736][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.09.18-15.43.17:768][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.09.18-15.43.17:797][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.09.18-15.43.17:823][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.09.18-15.43.17:852][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.09.18-15.43.17:877][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.09.18-15.43.17:902][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.09.18-15.43.17:929][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.09.18-15.43.17:955][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.09.18-15.43.17:983][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.09.18-15.43.18:011][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.09.18-15.43.18:040][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.09.18-15.43.18:069][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.09.18-15.43.18:097][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.09.18-15.43.18:127][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.09.18-15.43.18:151][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.09.18-15.43.18:178][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.09.18-15.43.18:206][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.09.18-15.43.18:231][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.09.18-15.43.18:260][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.09.18-15.43.18:290][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.09.18-15.43.18:316][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.09.18-15.43.18:346][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.09.18-15.43.18:370][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.09.18-15.43.18:400][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.09.18-15.43.18:426][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.09.18-15.43.18:457][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.09.18-15.43.18:486][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.09.18-15.43.18:510][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.09.18-15.43.18:536][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.09.18-15.43.18:565][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.09.18-15.43.18:592][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.09.18-15.43.18:622][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.09.18-15.43.18:651][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.09.18-15.43.18:678][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.09.18-15.43.18:705][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.09.18-15.43.18:735][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.09.18-15.43.18:762][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.09.18-15.43.18:793][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.09.18-15.43.18:817][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.09.18-15.43.18:842][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.09.18-15.43.18:868][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.09.18-15.43.18:876][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Items/Default__Health_PickUp_C" FILE="D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Default__Health_PickUp_C.uasset" SILENT=true
+[2019.09.18-15.43.18:881][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Default__Health_PickUp_CEC7098654923858285654A9855132048.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Default__Health_PickUp_C.uasset'
+[2019.09.18-15.43.18:883][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Items/Health_PickUp" FILE="D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Health_PickUp.uasset" SILENT=true
+[2019.09.18-15.43.18:888][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Health_PickUpA3ECD14C4811E1DFC9064A99F49E03DE.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Health_PickUp.uasset'
+[2019.09.18-15.43.18:890][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Items/Health_PickUp_C" FILE="D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Health_PickUp_C.uasset" SILENT=true
+[2019.09.18-15.43.18:895][981]LogSavePackage: Moving 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Saved/Health_PickUp_C45AFFFDF48C6B00C687EA2A2F7E4AB0B.tmp' to 'D:/Carlos Davila/Guns_Blazzing/Project_GunzBlazing/Content/Items/Items/Health_PickUp_C.uasset'
+[2019.09.18-15.44.00:987][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.09.18-15.44.01:502][ 87]LogSlate: Took 0.005960 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.18-15.44.02:148][ 87]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.18-15.44.02:206][ 87]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/Items/Items/Default__Health_PickUp_C.Default__Health_PickUp_C
+	Asset Name: /Game/Items/Items/Health_PickUp.Health_PickUp
+	Asset Name: /Game/Items/Items/Health_PickUp_C.Health_PickUp_C
+[2019.09.18-15.44.02:695][ 87]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.09.18-15.44.03:902][ 87]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.207 s
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: === Handled ensure: ===
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: 
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: Ensure condition failed: Found [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 198]
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: Cannot remove redirection from /Game/Items/Items/Default__Health_PickUp_C.Default__Health_PickUp_C, it was not registered
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: Stack: 
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff567f1711 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff564e9887 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff3aa3ddbd UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff11f33d25 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff11f3e077 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff1179e42f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff119ff488 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff119f97c4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff12f22a12 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff12d74021 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff12df0301 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff12ddaaca UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff12dd0414 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff56d4b8e0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff56d3ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff56d4d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff56d3c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff677bca66 USER32.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff677bc582 USER32.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff56d4e899 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff12dfaa95 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff12da012f UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff11a82ce6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff11f32fd5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff027a4851 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff027ae5de UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff027aa30f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff0280120c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff027ab3f4 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff12f22a12 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff12d74021 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff12df0301 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff12ddaaca UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff12dd0414 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff56d4b8e0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff56d3ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff56d4d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff56d3c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff677bca66 USER32.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff677bc582 USER32.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff56d4e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff637075d3e UE4Editor.exe!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff63708554c UE4Editor.exe!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff6370855ca UE4Editor.exe!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff63709316c UE4Editor.exe!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff637095b8e UE4Editor.exe!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff67357974 KERNEL32.DLL!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: [Callstack] 0x00007fff679ea271 ntdll.dll!UnknownFunction []
+[2019.09.18-15.44.03:903][ 87]LogOutputDevice: Error: 
+[2019.09.18-15.44.03:912][ 87]LogStats:                SubmitErrorReport -  0.000 s
