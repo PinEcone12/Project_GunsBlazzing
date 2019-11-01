@@ -1,0 +1,912 @@
+﻿Log file open, 10/30/19 10:07:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Project_GunzBlazing
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.391402
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.30-15.07.41:824][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.30-15.07.41:824][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.30-15.07.41:824][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Project_GB/Project_GunzBlazing/Saved/Config/Windows/Engine.ini]
+[2019.10.30-15.07.41:824][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.30-15.07.41:824][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Project_GB/Project_GunzBlazing/Saved/Config/Windows/Engine.ini]
+[2019.10.30-15.07.41:824][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Project_GB/Project_GunzBlazing/Saved/Config/Windows/Engine.ini]
+[2019.10.30-15.07.41:824][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.30-15.07.41:824][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.30-15.07.41:824][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.30-15.07.41:824][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.30-15.07.41:824][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.30-15.07.41:824][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.30-15.07.41:824][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.30-15.07.41:824][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.30-15.07.41:824][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.30-15.07.41:824][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.30-15.07.41:824][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.30-15.07.41:824][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.30-15.07.41:824][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.30-15.07.41:824][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Project_GB/Project_GunzBlazing/Saved/Config/Windows/Engine.ini]
+[2019.10.30-15.07.41:824][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.30-15.07.41:824][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.30-15.07.41:824][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.30-15.07.41:825][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.30-15.07.41:825][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.30-15.07.41:825][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.30-15.07.41:825][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.30-15.07.41:825][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.30-15.07.41:825][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.30-15.07.41:825][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.30-15.07.41:825][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.30-15.07.41:825][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.30-15.07.41:825][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.30-15.07.41:825][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Project_GB/Project_GunzBlazing/Saved/Config/Windows/Engine.ini]
+[2019.10.30-15.07.41:825][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Project_GB/Project_GunzBlazing/Saved/Config/Windows/Engine.ini]
+[2019.10.30-15.07.41:827][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Project_GB/Project_GunzBlazing/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Project_GB/Project_GunzBlazing/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Project_GB/Project_GunzBlazing/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Project_GB/Project_GunzBlazing/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.30-15.07.41:827][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.30-15.07.41:828][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.30-15.07.41:828][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.30-15.07.41:828][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.30-15.07.41:828][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Project_GB/Project_GunzBlazing/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-15.07.41:828][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.30-15.07.41:828][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.30-15.07.41:828][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.30-15.07.41:828][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.30-15.07.41:828][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.30-15.07.41:828][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.30-15.07.41:828][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.30-15.07.41:828][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.30-15.07.41:828][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Project_GB/Project_GunzBlazing/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-15.07.41:828][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.30-15.07.41:828][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.30-15.07.41:828][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.30-15.07.41:828][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.30-15.07.41:828][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.30-15.07.41:828][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.30-15.07.41:828][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.30-15.07.41:828][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.30-15.07.41:828][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.30-15.07.41:828][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.30-15.07.41:828][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.30-15.07.41:828][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.30-15.07.41:828][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.30-15.07.41:828][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Project_GB/Project_GunzBlazing/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-15.07.41:828][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.30-15.07.41:828][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.30-15.07.41:828][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.30-15.07.41:828][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.30-15.07.41:841][  0]LogHAL: Display: Platform has ~ 32 GB [34182828032 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.30-15.07.41:841][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.10.30-15.07.41:841][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.30-15.07.41:841][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Project_GB/Project_GunzBlazing/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-15.07.41:841][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.30-15.07.41:841][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.30-15.07.41:841][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Project_GB/Project_GunzBlazing/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-15.07.41:841][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.30-15.07.41:841][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Project_GB/Project_GunzBlazing/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-15.07.41:841][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.30-15.07.41:841][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.30-15.07.41:841][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.30-15.07.41:841][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.30-15.07.41:841][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.30-15.07.41:841][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.30-15.07.41:841][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.30-15.07.41:841][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.30-15.07.41:841][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.30-15.07.41:841][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Project_GB/Project_GunzBlazing/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Project_GB/Project_GunzBlazing/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Project_GB/Project_GunzBlazing/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Project_GB/Project_GunzBlazing/Saved/Config/Windows/Scalability.ini]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.30-15.07.41:842][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Project_GB/Project_GunzBlazing/Saved/Config/Windows/Engine.ini]
+[2019.10.30-15.07.41:842][  0]LogInit: Computer: 13-D224
+[2019.10.30-15.07.41:842][  0]LogInit: User: 13D224
+[2019.10.30-15.07.41:842][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.10.30-15.07.41:842][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.30-15.07.41:843][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2019.10.30-15.07.41:843][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.30-15.07.41:843][  0]LogMemory: Process Physical Memory: 96.75 MB used, 96.75 MB peak
+[2019.10.30-15.07.41:843][  0]LogMemory: Process Virtual Memory: 89.70 MB used, 89.70 MB peak
+[2019.10.30-15.07.41:843][  0]LogMemory: Physical Memory: 3943.72 MB used,  28655.56 MB free, 32599.29 MB total
+[2019.10.30-15.07.41:843][  0]LogMemory: Virtual Memory: 4674.63 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.10.30-15.07.41:853][  0]LogInit: Using OS detected language (en-US).
+[2019.10.30-15.07.41:853][  0]LogInit: Using OS detected locale (en-US).
+[2019.10.30-15.07.41:854][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.30-15.07.41:978][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.30-15.07.41:997][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.30-15.07.41:997][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.30-15.07.42:103][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.30-15.07.42:103][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.30-15.07.42:117][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.10.30-15.07.42:117][  0]LogD3D11RHI:       128/0/16299 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.10.30-15.07.42:119][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.30-15.07.42:119][  0]LogD3D11RHI:       0/0/16299 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.30-15.07.42:119][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.30-15.07.42:122][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.30-15.07.42:122][  0]LogD3D11RHI:     GPU DeviceId: 0x3e92 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.30-15.07.42:122][  0]LogWindows: EnumDisplayDevices:
+[2019.10.30-15.07.42:122][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.10.30-15.07.42:122][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.30-15.07.42:122][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.30-15.07.42:123][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.10.30-15.07.42:123][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 630
+[2019.10.30-15.07.42:123][  0]LogD3D11RHI:   Driver Version: 25.20.100.6617 (internal:25.20.100.6617, unified:25.20.100.6617)
+[2019.10.30-15.07.42:123][  0]LogD3D11RHI:      Driver Date: 3-8-2019
+[2019.10.30-15.07.42:123][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2019.10.30-15.07.42:133][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.30-15.07.42:135][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.30-15.07.42:136][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.30-15.07.42:136][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.30-15.07.42:137][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2019.10.30-15.07.42:357][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.30-15.07.42:367][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.30-15.07.42:377][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.30-15.07.42:388][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.30-15.07.42:400][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.30-15.07.42:417][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.30-15.07.42:435][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.30-15.07.42:448][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.30-15.07.42:453][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.30-15.07.42:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.30-15.07.42:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.30-15.07.42:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.30-15.07.42:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.30-15.07.42:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.30-15.07.42:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.30-15.07.42:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.30-15.07.42:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.30-15.07.42:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.30-15.07.42:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.30-15.07.42:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.30-15.07.42:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.30-15.07.42:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.30-15.07.42:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.30-15.07.42:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.30-15.07.42:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.30-15.07.42:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.30-15.07.42:513][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.30-15.07.42:514][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.30-15.07.42:558][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.30-15.07.42:558][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.30-15.07.42:582][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.30-15.07.42:582][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.30-15.07.42:595][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.30-15.07.42:604][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.30-15.07.42:613][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.30-15.07.42:627][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.30-15.07.42:660][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.30-15.07.42:660][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.30-15.07.42:660][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.30-15.07.42:666][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.30-15.07.42:698][  0]LogShaderCompilers: Guid format shader working directory is 15 characters bigger than the processId version (D:/Project_GB/Project_GunzBlazing/Intermediate/Shaders/WorkingDirectory/8384/).
+[2019.10.30-15.07.42:698][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/13.D224/AppData/Local/Temp/UnrealShaderWorkingDir/A489ABB04ED131037AB055948A3D6767/'.
+[2019.10.30-15.07.42:700][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.30-15.07.42:700][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.30-15.07.42:700][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.30-15.07.43:127][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.30-15.07.43:162][  0]LogDerivedDataCache: Loaded boot cache 0.03s 73MB C:/Users/13.D224/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.30-15.07.43:163][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/13.D224/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.10.30-15.07.43:163][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Project_GB/Project_GunzBlazing/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.30-15.07.43:163][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.30-15.07.43:163][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Project_GB/Project_GunzBlazing/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.30-15.07.43:163][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.30-15.07.43:172][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.30-15.07.43:172][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.30-15.07.43:172][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.30-15.07.43:185][  0]LogDerivedDataCache: Using Local data cache path C:/Users/13.D224/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.30-15.07.43:185][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.30-15.07.43:185][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.30-15.07.43:200][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.30-15.07.43:201][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.30-15.07.43:202][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.30-15.07.43:269][  0]LogAssetRegistry: FAssetRegistry took 0.0307 seconds to start up
+[2019.10.30-15.07.43:508][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.30-15.07.43:607][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.30-15.07.43:607][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.30-15.07.43:607][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.30-15.07.43:607][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.30-15.07.43:607][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.30-15.07.43:614][  0]LogNetVersion: Project_GunzBlazing 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 392623841)
+[2019.10.30-15.07.43:906][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.033486 seconds
+[2019.10.30-15.07.43:911][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.10.30-15.07.43:911][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.10.30-15.07.43:911][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.30-15.07.44:495][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.30-15.07.44:508][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.30-15.07.44:596][  0]SourceControl: Source control is disabled
+[2019.10.30-15.07.44:597][  0]SourceControl: Source control is disabled
+[2019.10.30-15.07.44:597][  0]SourceControl: Source control is disabled
+[2019.10.30-15.07.44:598][  0]SourceControl: Source control is disabled
+[2019.10.30-15.07.44:646][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.30-15.07.44:703][  0]LogOcInput: OculusInput pre-init called
+[2019.10.30-15.07.45:196][  0]LogEngine: Initializing Engine...
+[2019.10.30-15.07.45:196][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.30-15.07.45:197][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.30-15.07.45:348][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.30-15.07.45:360][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.30-15.07.45:368][  0]LogInit: XAudio2 using 'Dell S2716DG (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.30-15.07.45:386][  0]LogInit: FAudioDevice initialized.
+[2019.10.30-15.07.45:386][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.30-15.07.45:479][  0]LogDerivedDataCache: Saved boot cache 0.09s 73MB C:/Users/13.D224/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.30-15.07.45:487][  0]LogInit: Texture streaming: Enabled
+[2019.10.30-15.07.45:499][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.30-15.07.45:516][  0]LogInit: Transaction tracking system initialized
+[2019.10.30-15.07.45:531][  0]BlueprintLog: New page: Editor Load
+[2019.10.30-15.07.45:588][  0]LocalizationService: Localization service is disabled
+[2019.10.30-15.07.45:810][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.30-15.07.45:810][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.30-15.07.45:930][  0]LogFileCache: Scanning file cache for directory 'D:/Project_GB/Project_GunzBlazing/Content/' took 0.04s
+[2019.10.30-15.07.45:930][  0]SourceControl: Source control is disabled
+[2019.10.30-15.07.45:930][  0]Cmd: MAP LOAD FILE="D:/Project_GB/Project_GunzBlazing/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.30-15.07.45:934][  0]LightingResults: New page: Lighting Build
+[2019.10.30-15.07.45:936][  0]MapCheck: New page: Map Check
+[2019.10.30-15.07.45:936][  0]LightingResults: New page: Lighting Build
+[2019.10.30-15.07.45:960][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.10.30-15.07.46:297][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Attack' for  InputAction Attack
+[2019.10.30-15.07.46:298][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Sprint' for  InputAction Sprint
+[2019.10.30-15.07.46:315][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0006.05] Compile of ThirdPersonCharacter successful, but with 2 Warning(s) [in 40 ms] (/Game/Characters/Melee/BPs/ThirdPersonCharacter.ThirdPersonCharacter)
+[2019.10.30-15.07.46:376][  0]LogBlueprint: Warning: [Compiler AssaultCharacter] InputAction Event references unknown Action 'Pause' for  InputAction Pause
+[2019.10.30-15.07.46:382][  0]LogBlueprint: Warning: [Compiler ThirdPersonGameMode] InputAction Event references unknown Action 'Pause' for  InputAction Pause
+[2019.10.30-15.07.46:394][  0]LogBlueprint: Warning: [Compiler AssaultCharacter] [0006.13] Compile of AssaultCharacter successful, but with 1 Warning(s) [in 27 ms] (/Game/Characters/Assault/BPs/AssaultCharacter.AssaultCharacter)
+[2019.10.30-15.07.46:394][  0]LogBlueprint: Warning: [Compiler ThirdPersonGameMode] [0006.13] Compile of ThirdPersonGameMode successful, but with 1 Warning(s) [in 27 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode)
+[2019.10.30-15.07.46:624][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AI_test_1/AI_test_1/Animation/Attack_PrimaryA.Attack_PrimaryA
+[2019.10.30-15.07.46:624][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/AI_test_1/AI_test_1/Animation/Attack_PrimaryA.Attack_PrimaryA) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.30-15.07.46:699][  0]LogTexture: Display: Building textures: battalion-leader-heraklios_specular (AutoDXT, 2048X2048)
+[2019.10.30-15.07.46:699][  0]LogTexture: Display: Building textures: battalion-leader-heraklios_diffuse (AutoDXT, 2048X2048)
+[2019.10.30-15.07.46:699][  0]LogTexture: Display: Building textures: SpacePirate_specular (AutoDXT, 2048X2048)
+[2019.10.30-15.07.46:699][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Melee/Anims/melee_walk.melee_walk
+[2019.10.30-15.07.46:699][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Melee/Anims/melee_walk.melee_walk) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.30-15.07.46:700][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Melee/Anims/melee_run.melee_run
+[2019.10.30-15.07.46:700][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Melee/Anims/melee_run.melee_run) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.30-15.07.46:732][  0]LogTexture: Display: Building textures: battalion-leader-heraklios_normal (BC5, 2048X2048)
+[2019.10.30-15.07.46:732][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Melee/Anims/melee_idle.melee_idle
+[2019.10.30-15.07.46:732][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Melee/Anims/melee_idle.melee_idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.30-15.07.46:799][  0]LogTexture: Display: Building textures: SpacePirate_normal (BC5, 2048X2048)
+[2019.10.30-15.07.46:799][  0]LogTexture: Display: Building textures: SpacePirate_diffuse (AutoDXT, 2048X2048)
+[2019.10.30-15.07.46:799][  0]LogStaticMesh: Building static mesh 1M_Cube...
+[2019.10.30-15.07.46:931][  0]LogStaticMesh: Built static mesh [0.13s] /Game/Defualt/Geometry/Meshes/1M_Cube.1M_Cube
+[2019.10.30-15.07.46:950][  0]LogStaticMesh: Building static mesh 1M_Cube_Chamfer...
+[2019.10.30-15.07.46:956][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Defualt/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer
+[2019.10.30-15.07.46:993][  0]LogStaticMesh: Building static mesh TemplateFloor...
+[2019.10.30-15.07.46:994][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Defualt/Geometry/Meshes/TemplateFloor.TemplateFloor
+[2019.10.30-15.07.48:152][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Assault/Anims/assault_walk.assault_walk
+[2019.10.30-15.07.48:152][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Assault/Anims/assault_walk.assault_walk) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.30-15.07.48:153][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Assault/Anims/assault_run.assault_run
+[2019.10.30-15.07.48:153][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Assault/Anims/assault_run.assault_run) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.30-15.07.48:154][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Assault/Anims/assault_idle.assault_idle
+[2019.10.30-15.07.48:154][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Assault/Anims/assault_idle.assault_idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.30-15.07.48:157][  0]LogSkeletalMesh: Building Skeletal Mesh Assault...
+[2019.10.30-15.07.48:200][  0]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Characters/Assault/BPs/Assault.Assault
+[2019.10.30-15.07.48:202][  0]LogMaterial: Display: Missing cached shader map for material BattalionLeader_MAT, compiling. 
+[2019.10.30-15.07.48:699][  0]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.10.30-15.07.48:699][  0]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.10.30-15.07.48:699][  0]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.30-15.07.48:699][  0]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.30-15.07.48:699][  0]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.30-15.07.48:699][  0]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.30-15.07.48:699][  0]LogMaterial: Display: Missing cached shader map for material SpacePirate_M, compiling. 
+[2019.10.30-15.07.48:738][  0]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.10.30-15.07.48:739][  0]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.10.30-15.07.48:739][  0]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.30-15.07.48:739][  0]LogSkeletalMesh: Building Skeletal Mesh melee...
+[2019.10.30-15.07.48:777][  0]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Characters/Melee/BPs/melee.melee
+[2019.10.30-15.07.48:918][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.30-15.07.48:936][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.30-15.07.48:998][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.10.30-15.07.48:998][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.30-15.07.48:998][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.085ms to complete.
+[2019.10.30-15.07.48:998][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 3.074
+[2019.10.30-15.07.49:128][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-15.07.49:139][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-15.07.49:150][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-15.07.49:159][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-15.07.49:176][  0]LogCollectionManager: Loaded 0 collections in 0.002013 seconds
+[2019.10.30-15.07.49:210][  0]LogFileCache: Scanning file cache for directory 'D:/Project_GB/Project_GunzBlazing/Saved/Collections/' took 0.01s
+[2019.10.30-15.07.49:210][  0]LogFileCache: Scanning file cache for directory 'D:/Project_GB/Project_GunzBlazing/Content/Developers/13D224/Collections/' took 0.00s
+[2019.10.30-15.07.49:210][  0]LogFileCache: Scanning file cache for directory 'D:/Project_GB/Project_GunzBlazing/Content/Collections/' took 0.00s
+[2019.10.30-15.07.49:210][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.10.30-15.07.49:224][  0]LogContentBrowser: Native class hierarchy populated in 0.0126 seconds. Added 2732 classes and 659 folders.
+[2019.10.30-15.07.49:238][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.10.30-15.07.49:250][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-15.07.49:261][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-15.07.49:287][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-15.07.49:296][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-15.07.49:304][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-15.07.49:310][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-15.07.49:317][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-15.07.49:325][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-15.07.49:334][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-15.07.49:342][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-15.07.49:348][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-15.07.49:354][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-15.07.49:360][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-15.07.49:366][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-15.07.49:372][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-15.07.49:379][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-15.07.49:413][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-15.07.49:419][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-15.07.49:426][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-15.07.49:433][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-15.07.49:441][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-15.07.49:448][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-15.07.49:455][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-15.07.49:463][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-15.07.49:470][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-15.07.49:477][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.30-15.07.49:657][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.30-15.07.49:676][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.10.30-15.07.49:742][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.30-15.07.49:760][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.10.30-15.07.49:793][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.10.30-15.07.49:793][  0]LogLoad: (Engine Initialization) Total time: 9.53 seconds
+[2019.10.30-15.07.49:793][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.30-15.07.49:869][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.30-15.07.49:870][  0]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.30-15.07.49:872][  0]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.30-15.07.49:886][  0]LogSlate: Took 0.007709 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.30-15.07.50:312][  1]LogRenderer: Reallocating scene render targets to support 804x360 Format 10 NumSamples 1 (Frame:1).
+[2019.10.30-15.07.50:330][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Project_GB/Project_GunzBlazing/Content/' took 0.51s
+[2019.10.30-15.07.50:858][  2]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.30-15.07.50:947][  2]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.30-15.07.50:961][  2]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.30-15.07.51:543][  3]LogSlate: Took 0.006814 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.30-15.07.53:762][171]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.10.30-15.07.56:461][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-15.07.56:679][389]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:283).
+[2019.10.30-15.08.08:531][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-15.08.08:645][641]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.30-15.08.08:656][641]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.30-15.08.08:657][641]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.30-15.08.08:658][641]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 30, 2019, 5:08:08 AM)
+[2019.10.30-15.08.08:671][641]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.30-15.08.08:681][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010212s)
+[2019.10.30-15.08.08:682][641]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.30-15.08.08:682][641]LogPlayLevel: PIE: World Init took: (0.000541s)
+[2019.10.30-15.08.08:682][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010935s)
+[2019.10.30-15.08.08:703][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.10.30-15.08.08:710][641]LogInit: XAudio2 using 'Dell S2716DG (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.30-15.08.08:714][641]LogInit: FAudioDevice initialized.
+[2019.10.30-15.08.08:752][641]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.30-15.08.08:755][641]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.10.30-10.08.08
+[2019.10.30-15.08.08:760][641]LogWorld: Bringing up level for play took: 0.006752
+[2019.10.30-15.08.08:781][641]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.10.30-15.08.08:783][641]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.903
+[2019.10.30-15.08.08:783][641]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.30-15.08.12:984][750]LogAnimMontage: Warning: Playing a Montage (Attack_PrimaryA_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (UE4_Mannequin_Skeleton).
+[2019.10.30-15.08.16:452][838]LogAssetRegistry: Asset discovery search completed in 33.2648 seconds
+[2019.10.30-15.08.16:454][838]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
+[2019.10.30-15.08.17:980][876]LogAnimMontage: Warning: Playing a Montage (Attack_PrimaryA_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (UE4_Mannequin_Skeleton).
+[2019.10.30-15.08.25:832][ 75]LogAnimMontage: Warning: Playing a Montage (Attack_PrimaryA_Montage) for the wrong Skeleton (UE4_Mannequin_Skeleton) instead of (UE4_Mannequin_Skeleton).
+[2019.10.30-15.08.34:312][308]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.30-15.08.34:312][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-15.08.34:373][308]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.30-15.08.34:373][308]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.30-15.08.34:403][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.30-15.08.34:405][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.10.30-15.08.34:445][309]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.10.30-15.08.58:815][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-15.09.05:547][985]LogTexture: Display: Building textures: T_Slums_TilingNOise_M (AutoDXT, 2048X2048)
+[2019.10.30-15.09.05:547][985]LogTexture: Display: Building textures: brick_wall_tiling_c_orange (AutoDXT, 2048X2048)
+[2019.10.30-15.09.05:547][985]LogTexture: Display: Building textures: T_COG_Underground_Bricks_01_M (AutoDXT, 2048X2048)
+[2019.10.30-15.09.05:547][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_269...
+[2019.10.30-15.09.05:551][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_269.FBXbuilding_Cube_269
+[2019.10.30-15.09.05:552][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_268...
+[2019.10.30-15.09.05:555][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_268.FBXbuilding_Cube_268
+[2019.10.30-15.09.05:555][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_267...
+[2019.10.30-15.09.05:558][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_267.FBXbuilding_Cube_267
+[2019.10.30-15.09.05:558][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_266...
+[2019.10.30-15.09.05:561][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_266.FBXbuilding_Cube_266
+[2019.10.30-15.09.05:561][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_265...
+[2019.10.30-15.09.05:564][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_265.FBXbuilding_Cube_265
+[2019.10.30-15.09.05:567][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_264...
+[2019.10.30-15.09.05:569][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_264.FBXbuilding_Cube_264
+[2019.10.30-15.09.05:572][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_263...
+[2019.10.30-15.09.05:574][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_263.FBXbuilding_Cube_263
+[2019.10.30-15.09.05:574][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_262...
+[2019.10.30-15.09.05:577][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_262.FBXbuilding_Cube_262
+[2019.10.30-15.09.05:577][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_261...
+[2019.10.30-15.09.05:580][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_261.FBXbuilding_Cube_261
+[2019.10.30-15.09.05:580][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_260...
+[2019.10.30-15.09.05:582][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_260.FBXbuilding_Cube_260
+[2019.10.30-15.09.05:585][985]LogMaterial: Display: Missing cached shader map for material Mat_10, compiling. 
+[2019.10.30-15.09.05:620][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_26...
+[2019.10.30-15.09.05:622][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_26.FBXbuilding_Cube_26
+[2019.10.30-15.09.05:623][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_25_2...
+[2019.10.30-15.09.05:627][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_25_2.FBXbuilding_Cube_25_2
+[2019.10.30-15.09.05:628][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_259...
+[2019.10.30-15.09.05:631][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_259.FBXbuilding_Cube_259
+[2019.10.30-15.09.05:632][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_258...
+[2019.10.30-15.09.05:634][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_258.FBXbuilding_Cube_258
+[2019.10.30-15.09.05:636][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_257...
+[2019.10.30-15.09.05:638][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_257.FBXbuilding_Cube_257
+[2019.10.30-15.09.05:639][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_256...
+[2019.10.30-15.09.05:642][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_256.FBXbuilding_Cube_256
+[2019.10.30-15.09.05:642][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_255...
+[2019.10.30-15.09.05:645][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_255.FBXbuilding_Cube_255
+[2019.10.30-15.09.05:645][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_254...
+[2019.10.30-15.09.05:648][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_254.FBXbuilding_Cube_254
+[2019.10.30-15.09.05:648][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_253...
+[2019.10.30-15.09.05:651][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_253.FBXbuilding_Cube_253
+[2019.10.30-15.09.05:654][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_252...
+[2019.10.30-15.09.05:656][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_252.FBXbuilding_Cube_252
+[2019.10.30-15.09.05:656][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_251...
+[2019.10.30-15.09.05:659][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_251.FBXbuilding_Cube_251
+[2019.10.30-15.09.05:659][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_250...
+[2019.10.30-15.09.05:662][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_250.FBXbuilding_Cube_250
+[2019.10.30-15.09.05:664][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_25...
+[2019.10.30-15.09.05:667][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_25.FBXbuilding_Cube_25
+[2019.10.30-15.09.05:667][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_24_2...
+[2019.10.30-15.09.05:671][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_24_2.FBXbuilding_Cube_24_2
+[2019.10.30-15.09.05:671][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_249...
+[2019.10.30-15.09.05:674][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_249.FBXbuilding_Cube_249
+[2019.10.30-15.09.05:674][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_248...
+[2019.10.30-15.09.05:677][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_248.FBXbuilding_Cube_248
+[2019.10.30-15.09.05:677][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_247...
+[2019.10.30-15.09.05:680][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_247.FBXbuilding_Cube_247
+[2019.10.30-15.09.05:680][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_246...
+[2019.10.30-15.09.05:683][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_246.FBXbuilding_Cube_246
+[2019.10.30-15.09.05:683][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_245...
+[2019.10.30-15.09.05:686][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_245.FBXbuilding_Cube_245
+[2019.10.30-15.09.05:687][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_244...
+[2019.10.30-15.09.05:689][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_244.FBXbuilding_Cube_244
+[2019.10.30-15.09.05:696][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_243...
+[2019.10.30-15.09.05:698][985]LogStaticMesh: Built static mesh [0.01s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_243.FBXbuilding_Cube_243
+[2019.10.30-15.09.05:699][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_242...
+[2019.10.30-15.09.05:701][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_242.FBXbuilding_Cube_242
+[2019.10.30-15.09.05:702][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_241...
+[2019.10.30-15.09.05:705][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_241.FBXbuilding_Cube_241
+[2019.10.30-15.09.05:705][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_240...
+[2019.10.30-15.09.05:708][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_240.FBXbuilding_Cube_240
+[2019.10.30-15.09.05:722][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_24...
+[2019.10.30-15.09.05:725][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_24.FBXbuilding_Cube_24
+[2019.10.30-15.09.05:726][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_23_2...
+[2019.10.30-15.09.05:729][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_23_2.FBXbuilding_Cube_23_2
+[2019.10.30-15.09.05:746][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_239...
+[2019.10.30-15.09.05:748][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_239.FBXbuilding_Cube_239
+[2019.10.30-15.09.05:749][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_238...
+[2019.10.30-15.09.05:751][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_238.FBXbuilding_Cube_238
+[2019.10.30-15.09.05:752][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_237...
+[2019.10.30-15.09.05:763][985]LogStaticMesh: Built static mesh [0.01s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_237.FBXbuilding_Cube_237
+[2019.10.30-15.09.05:777][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_236...
+[2019.10.30-15.09.05:780][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_236.FBXbuilding_Cube_236
+[2019.10.30-15.09.05:781][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_235...
+[2019.10.30-15.09.05:783][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_235.FBXbuilding_Cube_235
+[2019.10.30-15.09.05:783][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_234...
+[2019.10.30-15.09.05:786][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_234.FBXbuilding_Cube_234
+[2019.10.30-15.09.05:786][985]LogStaticMesh: Building static mesh Building_79_FBX_Cylinder386...
+[2019.10.30-15.09.05:789][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/Building_79_FBX_Cylinder386.Building_79_FBX_Cylinder386
+[2019.10.30-15.09.05:791][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_233...
+[2019.10.30-15.09.05:794][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_233.FBXbuilding_Cube_233
+[2019.10.30-15.09.05:794][985]LogStaticMesh: Building static mesh Building_79_FBX_Line04...
+[2019.10.30-15.09.05:796][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/Building_79_FBX_Line04.Building_79_FBX_Line04
+[2019.10.30-15.09.05:797][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_232...
+[2019.10.30-15.09.05:800][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_232.FBXbuilding_Cube_232
+[2019.10.30-15.09.05:800][985]LogStaticMesh: Building static mesh FBXbuilding_Cube_231...
+[2019.10.30-15.09.05:802][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/BigBuilding/FBXbuilding_Cube_231.FBXbuilding_Cube_231
+[2019.10.30-15.09.09:977][985]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 1024X1024)
+[2019.10.30-15.09.09:977][985]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 1024X1024)
+[2019.10.30-15.09.09:977][985]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2019.10.30-15.09.09:977][985]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2019.10.30-15.09.09:977][985]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 1024X1024)
+[2019.10.30-15.09.09:977][985]LogTexture: Display: Building textures: brick_wall_tiling_n (BC5, 2048X2048)
+[2019.10.30-15.09.09:977][985]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2019.10.30-15.09.09:977][985]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2019.10.30-15.09.09:977][985]LogTexture: Display: Building textures: brick_wall_tiling_g (AutoDXT, 2048X2048)
+[2019.10.30-15.09.09:977][985]LogTexture: Display: Building textures: brick_wall_tiling_c_grey (AutoDXT, 2048X2048)
+[2019.10.30-15.09.09:977][985]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.10.30-15.09.09:977][985]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2019.10.30-15.09.09:977][985]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2019.10.30-15.09.09:977][985]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2019.10.30-15.09.09:977][985]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 1024X1024)
+[2019.10.30-15.09.09:977][985]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 1024X1024)
+[2019.10.30-15.09.09:977][985]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2019.10.30-15.09.09:977][985]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2019.10.30-15.09.09:977][985]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2019.10.30-15.09.09:977][985]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 1024X1024)
+[2019.10.30-15.09.09:977][985]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2019.10.30-15.09.09:977][985]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.10.30-15.09.09:977][985]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2019.10.30-15.09.09:977][985]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2019.10.30-15.09.09:977][985]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 512X512)
+[2019.10.30-15.09.09:977][985]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2019.10.30-15.09.09:977][985]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 1024X1024)
+[2019.10.30-15.09.09:977][985]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X1024)
+[2019.10.30-15.09.09:977][985]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 1024X1024)
+[2019.10.30-15.09.09:977][985]LogTexture: Display: Building textures: T_Landscape_Grass_DH (AutoDXT, 512X512)
+[2019.10.30-15.09.09:977][985]LogMaterial: Display: Missing cached shader map for material brick_wall_orange, compiling. 
+[2019.10.30-15.09.10:126][985]LogTexture: Display: Building textures: ground_gravel_dirt_g (AutoDXT, 2048X2048)
+[2019.10.30-15.09.10:126][985]LogTexture: Display: Building textures: T_WaterDroplets_N (AutoDXT, 512X512)
+[2019.10.30-15.09.10:444][985]LogTexture: Display: Building textures: T_Soul_Water01_N (BC5, 512X512)
+[2019.10.30-15.09.10:444][985]LogTexture: Display: Building textures: glass_window_broken_n (BC5, 1024X512)
+[2019.10.30-15.09.10:444][985]LogTexture: Display: Building textures: T_RainStreaming_N (BC5, 1024X1024)
+[2019.10.30-15.09.10:444][985]LogTexture: Display: Building textures: ground_gravel_dirt_n (BC5, 2048X2048)
+[2019.10.30-15.09.10:444][985]LogTexture: Display: Building textures: glass_window_broken_g (AutoDXT, 1024X512)
+[2019.10.30-15.09.10:449][985]LogTexture: Display: Building textures: T_WaterDroplets_M (AutoDXT, 512X512)
+[2019.10.30-15.09.10:863][985]LogTexture: Display: Building textures: brick_wall_tiling_c_beige (AutoDXT, 2048X2048)
+[2019.10.30-15.09.10:863][985]LogTexture: Display: Building textures: T_WheelHub_R (AutoDXT, 1024X1024)
+[2019.10.30-15.09.10:863][985]LogTexture: Display: Building textures: T_Patina_Metal_D (AutoDXT, 2048X2048)
+[2019.10.30-15.09.11:145][985]LogTexture: Display: Building textures: T_Slums_TilingMetal_n (BC5, 2048X2048)
+[2019.10.30-15.09.11:145][985]LogTexture: Display: Building textures: T_Slums_Metal_Rust_03_N (BC5, 2048X2048)
+[2019.10.30-15.09.11:145][985]LogTexture: Display: Building textures: T_AccessTunnel_Cube (RGBA16F, 2048X512)
+[2019.10.30-15.09.23:489][985]LogTexture: Display: Building textures: T_Slums_Metal_Rust_03_D (AutoDXT, 2048X2048)
+[2019.10.30-15.09.23:489][985]LogTexture: Display: Building textures: T_Slums_PipeTexture_01b_M (AutoDXT, 1024X2048)
+[2019.10.30-15.09.23:489][985]LogTexture: Display: Building textures: T_RainPuddleMask (AutoDXT, 256X256)
+[2019.10.30-15.09.23:489][985]LogTexture: Display: Building textures: T_Slums_Trashcan_N (BC5, 2048X2048)
+[2019.10.30-15.09.23:489][985]LogTexture: Display: Building textures: Modern_Brick_House_1_Texture__2_ (AutoDXT, 720X600)
+[2019.10.30-15.09.23:489][985]LogTexture: Display: Building textures: Modern_Brick_House_1_Texture__1_ (AutoDXT, 280X280)
+[2019.10.30-15.09.23:489][985]LogTexture: Display: Building textures: Modern_Brick_House_1_Texture__4_ (AutoDXT, 720X720)
+[2019.10.30-15.09.23:489][985]LogTexture: Display: Building textures: Modern_Brick_House_1_Texture__3_ (AutoDXT, 720X720)
+[2019.10.30-15.09.23:489][985]LogTexture: Display: Building textures: Wood1 (AutoDXT, 1024X1024)
+[2019.10.30-15.09.23:489][985]LogTexture: Display: Building textures: Stone1 (BGRA8, 1024X802)
+[2019.10.30-15.09.23:489][985]LogTexture: Display: Building textures: Pave1 (AutoDXT, 1024X1024)
+[2019.10.30-15.09.23:489][985]LogTexture: Display: Building textures: Floor1 (AutoDXT, 1024X1024)
+[2019.10.30-15.09.23:489][985]LogTexture: Display: Building textures: T_Foliage_Var01_O (AutoDXT, 512X512)
+[2019.10.30-15.09.23:490][985]LogTexture: Display: Building textures: T_Foliage_Var01_D (AutoDXT, 512X512)
+[2019.10.30-15.09.23:490][985]LogTexture: Display: Building textures: T_Pack_TreeLeafs_RM (AutoDXT, 1024X1024)
+[2019.10.30-15.09.23:490][985]LogTexture: Display: Building textures: T_Pack_TreeLeafs_O (AutoDXT, 1024X1024)
+[2019.10.30-15.09.23:490][985]LogTexture: Display: Building textures: T_Pack_TreeLeafs_Mask (AutoDXT, 1024X1024)
+[2019.10.30-15.09.23:490][985]LogTexture: Display: Building textures: T_Pack_TreeLeafs_N (BC5, 1024X1024)
+[2019.10.30-15.09.23:490][985]LogTexture: Display: Building textures: T_Pack_TreeLeafs_D (AutoDXT, 1024X1024)
+[2019.10.30-15.09.23:490][985]LogTexture: Display: Building textures: T_Soul_Concrete_Generic01_N (BC5, 2048X2048)
+[2019.10.30-15.09.23:490][985]LogTexture: Display: Building textures: T_Soul_Concrete_Generic01_D (AutoDXT, 2048X2048)
+[2019.10.30-15.09.23:490][985]LogTexture: Display: Building textures: T_Slums_Wall_D (AutoDXT, 2048X2048)
+[2019.10.30-15.09.23:490][985]LogTexture: Display: Building textures: T_Cave_Wood_Beam_N (BC5, 1024X512)
+[2019.10.30-15.09.23:490][985]LogTexture: Display: Building textures: T_Slums_Metal_Scratches_02_D (AutoDXT, 2048X2048)
+[2019.10.30-15.09.23:490][985]LogTexture: Display: Building textures: T_Slums_PipeTexture_01_M (AutoDXT, 2048X2048)
+[2019.10.30-15.09.23:490][985]LogTexture: Display: Building textures: T_Slums_PipeTexture_01_N (BC5, 2048X2048)
+[2019.10.30-15.09.23:490][985]LogTexture: Display: Building textures: T_Slums_TilingMetal_D (AutoDXT, 2048X2048)
+[2019.10.30-15.09.23:490][985]LogTexture: Display: Building textures: T_Slums_Metal_Scratches_02_N (BC5, 2048X2048)
+[2019.10.30-15.09.23:490][985]LogTexture: Display: Building textures: T_Slums_PipeTexture_01b_N (BC5, 1024X2048)
+[2019.10.30-15.09.23:490][985]LogTexture: Display: Building textures: T_Slums_MetalTexture_N (BC5, 2048X2048)
+[2019.10.30-15.09.23:490][985]LogTexture: Display: Building textures: T_Slums_MetalTexture_M (AutoDXT, 2048X2048)
+[2019.10.30-15.09.23:490][985]LogTexture: Display: Building textures: T_Slums_Metal_Rust_03_D (AutoDXT, 2048X2048)
+[2019.10.30-15.09.23:490][985]LogTexture: Display: Building textures: T_Patina_Metal_D (AutoDXT, 2048X2048)
+[2019.10.30-15.09.23:490][985]LogTexture: Display: Building textures: T_Cave_Rock_Large_M (AutoDXT, 1024X1024)
+[2019.10.30-15.09.23:490][985]LogTexture: Display: Building textures: T_Cave_Rock_Large_N (BC5, 2048X2048)
+[2019.10.30-15.09.23:490][985]LogTexture: Display: Building textures: T_Cave_Rock_Stalactite_N (BC5, 2048X2048)
+[2019.10.30-15.09.23:490][985]LogTexture: Display: Building textures: T_Cave_Rock_Detail_D (AutoDXT, 2048X2048)
+[2019.10.30-15.09.23:490][985]LogTexture: Display: Building textures: T_Cave_Rock_01_N (BC5, 2048X2048)
+[2019.10.30-15.09.23:490][985]LogTexture: Display: Building textures: T_Cave_Rock_Stalactite_M (AutoDXT, 1024X1024)
+[2019.10.30-15.09.23:490][985]LogTexture: Display: Building textures: beam_window_supports_metal_clean_n (BC5, 2048X2048)
+[2019.10.30-15.09.23:490][985]LogTexture: Display: Building textures: beam_window_supports_metal_clean_c (AutoDXT, 2048X2048)
+[2019.10.30-15.09.23:490][985]LogTexture: Display: Building textures: beam_window_supports_metal_clean_g (AutoDXT, 2048X2048)
+[2019.10.30-15.09.23:490][985]LogTexture: Display: Building textures: T_Water_N (BC5, 512X512)
+[2019.10.30-15.09.23:490][985]LogTexture: Display: Building textures: beam_window_supports_metal_ao (AutoDXT, 2048X2048)
+[2019.10.30-15.09.23:501][985]LogMaterial: Display: Missing cached shader map for material M_ParticleWater_MASTER, compiling. 
+[2019.10.30-15.09.23:599][985]LogTexture: Display: Building textures: bricks_red_g (AutoDXT, 2048X2048)
+[2019.10.30-15.09.23:599][985]LogStaticMesh: Building static mesh Apartment_Building_17_fbx_AB17_OBJ_01...
+[2019.10.30-15.09.23:788][985]LogStaticMesh: Built static mesh [0.19s] /Game/CityLevel_Assets/Building/Apartment_Building_17_fbx_AB17_OBJ_01.Apartment_Building_17_fbx_AB17_OBJ_01
+[2019.10.30-15.09.23:794][985]LogStaticMesh: Building static mesh Apartment_Building_17_fbx_AB17_OBJ_02...
+[2019.10.30-15.09.23:942][985]LogStaticMesh: Built static mesh [0.15s] /Game/CityLevel_Assets/Building/Apartment_Building_17_fbx_AB17_OBJ_02.Apartment_Building_17_fbx_AB17_OBJ_02
+[2019.10.30-15.09.23:947][985]LogStaticMesh: Building static mesh Apartment_Building_17_fbx_AB17_OBJ_03...
+[2019.10.30-15.09.24:074][985]LogStaticMesh: Built static mesh [0.13s] /Game/CityLevel_Assets/Building/Apartment_Building_17_fbx_AB17_OBJ_03.Apartment_Building_17_fbx_AB17_OBJ_03
+[2019.10.30-15.09.24:079][985]LogStaticMesh: Building static mesh Apartment_Building_17_fbx_AB17_OBJ_04...
+[2019.10.30-15.09.24:243][985]LogStaticMesh: Built static mesh [0.16s] /Game/CityLevel_Assets/Building/Apartment_Building_17_fbx_AB17_OBJ_04.Apartment_Building_17_fbx_AB17_OBJ_04
+[2019.10.30-15.09.24:248][985]LogStaticMesh: Building static mesh Apartment_Building_17_fbx_AB17_OBJ_06...
+[2019.10.30-15.09.24:331][985]LogStaticMesh: Built static mesh [0.08s] /Game/CityLevel_Assets/Building/Apartment_Building_17_fbx_AB17_OBJ_06.Apartment_Building_17_fbx_AB17_OBJ_06
+[2019.10.30-15.09.24:334][985]LogStaticMesh: Building static mesh Apartment_Building_17_fbx_AB17_OBJ_07...
+[2019.10.30-15.09.24:453][985]LogStaticMesh: Built static mesh [0.12s] /Game/CityLevel_Assets/Building/Apartment_Building_17_fbx_AB17_OBJ_07.Apartment_Building_17_fbx_AB17_OBJ_07
+[2019.10.30-15.09.24:465][985]LogStaticMesh: Building static mesh Apartment_Building_17_fbx_AB17_OBJ_08...
+[2019.10.30-15.09.24:746][985]LogTexture: Display: Building textures: bricks_red_c (AutoDXT, 2048X2048)
+[2019.10.30-15.09.24:746][985]LogStaticMesh: Built static mesh [0.29s] /Game/CityLevel_Assets/Building/Apartment_Building_17_fbx_AB17_OBJ_08.Apartment_Building_17_fbx_AB17_OBJ_08
+[2019.10.30-15.09.24:756][985]LogStaticMesh: Building static mesh Apartment_Building_17_fbx_AB17_OBJ_09...
+[2019.10.30-15.09.26:236][985]LogTexture: Display: Building textures: T_COG_Underground_Bricks_01_N (BC5, 2048X2048)
+[2019.10.30-15.09.26:241][985]LogTexture: Display: Building textures: T_COG_Underground_Bricks_01_D (AutoDXT, 2048X2048)
+[2019.10.30-15.09.26:241][985]LogTexture: Display: Building textures: bricks_red_n (BC5, 2048X2048)
+[2019.10.30-15.09.26:241][985]LogTexture: Display: Building textures: concrete_trim_g (AutoDXT, 2048X2048)
+[2019.10.30-15.09.26:241][985]LogTexture: Display: Building textures: concrete_trim_n (BC5, 2048X2048)
+[2019.10.30-15.09.26:241][985]LogStaticMesh: Built static mesh [1.48s] /Game/CityLevel_Assets/Building/Apartment_Building_17_fbx_AB17_OBJ_09.Apartment_Building_17_fbx_AB17_OBJ_09
+[2019.10.30-15.09.26:288][985]LogStaticMesh: Building static mesh Apartment_Building_17_fbx_AB17_OBJ_12...
+[2019.10.30-15.09.26:288][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/Apartment_Building_17_fbx_AB17_OBJ_12.Apartment_Building_17_fbx_AB17_OBJ_12
+[2019.10.30-15.09.26:288][985]LogStaticMesh: Building static mesh Apartment_Building_17_fbx_AB17_OBJ_13...
+[2019.10.30-15.09.26:295][985]LogStaticMesh: Built static mesh [0.01s] /Game/CityLevel_Assets/Building/Apartment_Building_17_fbx_AB17_OBJ_13.Apartment_Building_17_fbx_AB17_OBJ_13
+[2019.10.30-15.09.26:295][985]LogStaticMesh: Building static mesh Apartment_Building_17_fbx_AB17_OBJ_14...
+[2019.10.30-15.09.26:427][985]LogStaticMesh: Built static mesh [0.13s] /Game/CityLevel_Assets/Building/Apartment_Building_17_fbx_AB17_OBJ_14.Apartment_Building_17_fbx_AB17_OBJ_14
+[2019.10.30-15.09.26:482][985]LogStaticMesh: Building static mesh Apartment_Building_17_fbx_AB17_OBJ_15...
+[2019.10.30-15.09.26:706][985]LogStaticMesh: Built static mesh [0.22s] /Game/CityLevel_Assets/Building/Apartment_Building_17_fbx_AB17_OBJ_15.Apartment_Building_17_fbx_AB17_OBJ_15
+[2019.10.30-15.09.26:709][985]LogStaticMesh: Building static mesh Apartment_Building_17_fbx_AB17_OBJ_16...
+[2019.10.30-15.09.26:712][985]LogStaticMesh: Built static mesh [0.00s] /Game/CityLevel_Assets/Building/Apartment_Building_17_fbx_AB17_OBJ_16.Apartment_Building_17_fbx_AB17_OBJ_16
+[2019.10.30-15.09.26:713][985]LogStaticMesh: Building static mesh Apartment_Building_17_fbx_AB17_OBJ_17...
+[2019.10.30-15.09.26:731][985]LogStaticMesh: Built static mesh [0.02s] /Game/CityLevel_Assets/Building/Apartment_Building_17_fbx_AB17_OBJ_17.Apartment_Building_17_fbx_AB17_OBJ_17
+[2019.10.30-15.09.26:733][985]LogStaticMesh: Building static mesh Apartment_Building_17_fbx_AB17_OBJ_18...
+[2019.10.30-15.09.26:743][985]LogStaticMesh: Built static mesh [0.01s] /Game/CityLevel_Assets/Building/Apartment_Building_17_fbx_AB17_OBJ_18.Apartment_Building_17_fbx_AB17_OBJ_18
+[2019.10.30-15.09.26:744][985]LogStaticMesh: Building static mesh Apartment_Building_17_fbx_AB17_OBJ_19...
+[2019.10.30-15.09.26:836][985]LogStaticMesh: Built static mesh [0.09s] /Game/CityLevel_Assets/Building/Apartment_Building_17_fbx_AB17_OBJ_19.Apartment_Building_17_fbx_AB17_OBJ_19
+[2019.10.30-15.09.26:840][985]LogStaticMesh: Building static mesh Apartment_Building_17_fbx_AB17_OBJ_10...
+[2019.10.30-15.09.27:363][985]LogTexture: Display: Building textures: concrete_trim_c (AutoDXT, 2048X2048)
+[2019.10.30-15.09.27:363][985]LogTexture: Display: Building textures: window_bump_detal_n (BC5, 256X256)
+[2019.10.30-15.09.27:363][985]LogTexture: Display: Building textures: window_spec (AutoDXT, 512X512)
+[2019.10.30-15.09.27:363][985]LogTexture: Display: Building textures: T_Environment_Materials_Wet_TilingFlow02_N (BC5, 1024X1024)
+[2019.10.30-15.09.27:363][985]LogTexture: Display: Building textures: beam_window_supports_metal_c (AutoDXT, 2048X2048)
+[2019.10.30-15.09.27:363][985]LogStaticMesh: Built static mesh [0.52s] /Game/CityLevel_Assets/Building/Apartment_Building_17_fbx_AB17_OBJ_10.Apartment_Building_17_fbx_AB17_OBJ_10
+[2019.10.30-15.09.27:382][985]LogStaticMesh: Building static mesh Apartment_Building_17_fbx_AB17_OBJ_11...
+[2019.10.30-15.09.28:167][985]LogTexture: Display: Building textures: beam_window_supports_metal_n (BC5, 2048X2048)
+[2019.10.30-15.09.28:167][985]LogTexture: Display: Building textures: beam_window_supports_metal_g (AutoDXT, 2048X2048)
+[2019.10.30-15.09.28:167][985]LogTexture: Display: Building textures: ground_gravel_dirt_c (AutoDXT, 2048X2048)
+[2019.10.30-15.09.28:168][985]LogStaticMesh: Built static mesh [0.79s] /Game/CityLevel_Assets/Building/Apartment_Building_17_fbx_AB17_OBJ_11.Apartment_Building_17_fbx_AB17_OBJ_11
+[2019.10.30-15.09.28:184][985]LogStaticMesh: Building static mesh Apartment_Building_6_fbx_DESIGN...
+[2019.10.30-15.09.28:219][985]LogStaticMesh: Built static mesh [0.04s] /Game/CityLevel_Assets/Building/Apartment_Building_6_fbx_DESIGN.Apartment_Building_6_fbx_DESIGN
+[2019.10.30-15.09.29:359][985]LogStaticMesh: Building static mesh Apartment_Building_6_fbx_DOOR...
+[2019.10.30-15.09.29:519][985]LogStaticMesh: Built static mesh [1.30s] /Game/CityLevel_Assets/Building/Apartment_Building_6_fbx_DOOR.Apartment_Building_6_fbx_DOOR
+[2019.10.30-15.09.29:535][985]LogStaticMesh: Building static mesh Apartment_Building_6_fbx_FLOOR...
+[2019.10.30-15.09.29:608][985]LogStaticMesh: Built static mesh [0.07s] /Game/CityLevel_Assets/Building/Apartment_Building_6_fbx_FLOOR.Apartment_Building_6_fbx_FLOOR
+[2019.10.30-15.09.29:611][985]LogStaticMesh: Building static mesh Apartment_Building_6_fbx_GROUND_FLOOR_01...
+[2019.10.30-15.09.29:771][985]LogStaticMesh: Built static mesh [0.16s] /Game/CityLevel_Assets/Building/Apartment_Building_6_fbx_GROUND_FLOOR_01.Apartment_Building_6_fbx_GROUND_FLOOR_01
+[2019.10.30-15.09.29:776][985]LogStaticMesh: Building static mesh Apartment_Building_6_fbx_GROUND_FLOOR_02...
+[2019.10.30-15.09.29:857][985]LogStaticMesh: Built static mesh [0.08s] /Game/CityLevel_Assets/Building/Apartment_Building_6_fbx_GROUND_FLOOR_02.Apartment_Building_6_fbx_GROUND_FLOOR_02
+[2019.10.30-15.09.29:862][985]LogStaticMesh: Building static mesh Apartment_Building_6_fbx_GROUND_FLOOR_03...
+[2019.10.30-15.09.29:925][985]LogStaticMesh: Built static mesh [0.06s] /Game/CityLevel_Assets/Building/Apartment_Building_6_fbx_GROUND_FLOOR_03.Apartment_Building_6_fbx_GROUND_FLOOR_03
+[2019.10.30-15.09.29:932][985]LogStaticMesh: Building static mesh Apartment_Building_6_fbx_PERGOLA...
+[2019.10.30-15.09.29:988][985]LogStaticMesh: Built static mesh [0.06s] /Game/CityLevel_Assets/Building/Apartment_Building_6_fbx_PERGOLA.Apartment_Building_6_fbx_PERGOLA
+[2019.10.30-15.09.29:991][985]LogStaticMesh: Building static mesh Apartment_Building_6_fbx_ROOF_01...
+[2019.10.30-15.09.30:077][985]LogStaticMesh: Built static mesh [0.09s] /Game/CityLevel_Assets/Building/Apartment_Building_6_fbx_ROOF_01.Apartment_Building_6_fbx_ROOF_01
+[2019.10.30-15.09.30:083][985]LogStaticMesh: Building static mesh Apartment_Building_6_fbx_ROOF_02...
+[2019.10.30-15.09.30:113][985]LogStaticMesh: Built static mesh [0.03s] /Game/CityLevel_Assets/Building/Apartment_Building_6_fbx_ROOF_02.Apartment_Building_6_fbx_ROOF_02
+[2019.10.30-15.09.30:115][985]LogStaticMesh: Building static mesh Apartment_Building_6_fbx_WALL...
+[2019.10.30-15.09.30:436][985]LogStaticMesh: Built static mesh [0.32s] /Game/CityLevel_Assets/Building/Apartment_Building_6_fbx_WALL.Apartment_Building_6_fbx_WALL
+[2019.10.30-15.09.30:453][985]LogStaticMesh: Building static mesh Apartment_Building_6_fbx_WINDOW...
+[2019.10.30-15.09.30:789][985]LogStaticMesh: Built static mesh [0.34s] /Game/CityLevel_Assets/Building/Apartment_Building_6_fbx_WINDOW.Apartment_Building_6_fbx_WINDOW
+[2019.10.30-15.09.30:814][985]LogStaticMesh: Building static mesh Autoservis...
