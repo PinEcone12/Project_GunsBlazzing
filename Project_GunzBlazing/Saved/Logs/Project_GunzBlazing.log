@@ -1044,3 +1044,42 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.22-16.48.44:204][399]LogHttp: Warning: 0000021B8C4D8F40: libcurl info message cache 6 (necessary data rewind wasn't possible)
 [2019.11.22-16.48.44:204][399]LogHttp: Warning: 0000021B8C4D8F40: libcurl info message cache 7 (Closing connection 4)
 [2019.11.22-16.48.44:529][400]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B362BE46F-4DE7-25C7-1FEF-62A05C4069AE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=279067e74c36e1f16b88e58b9d0e3ddf%7Ce67724c06ae34bcab9b8bfae92f27281%7C19b12a00-461b-440a-8e73-820d50ef217f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.22-16.57.24:038][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.11.22-16.57.24:547][982]LogSavePackage: Moving 'D:/Latrell.A/Project_GunsBlazzing2/Project_GunzBlazing/Saved/FactoryMap_Auto2855511E14578E921822ECF8852B37DDA.tmp' to 'D:/Latrell.A/Project_GunsBlazzing2/Project_GunzBlazing/Saved/Autosaves/Game/FactoryLevel/FactoryMap_Auto2.umap'
+[2019.11.22-16.57.24:549][982]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FactoryLevel/FactoryMap' took 0.539
+[2019.11.22-16.57.24:549][982]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.539
+[2019.11.22-17.07.24:914][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.11.22-17.07.24:916][773]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FactoryLevel/FactoryMap' took 0.033
+[2019.11.22-17.14.42:388][779]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-17.14.43:892][955]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FactoryLevel/FactoryMap.FactoryMap:PersistentLevel' has LevelScriptBlueprint '/Game/FactoryLevel/FactoryMap.FactoryMap:PersistentLevel.FactoryMap' with GeneratedClass '/Game/FactoryLevel/FactoryMap.FactoryMap_C' with ClassGeneratedBy '/Game/FactoryLevel/FactoryMap.FactoryMap:PersistentLevel.FactoryMap'
+[2019.11.22-17.14.43:892][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.22-17.14.43:892][955]PIE: New page: PIE session: FactoryMap (Nov 22, 2019, 5:14:43 AM)
+[2019.11.22-17.14.43:904][955]LogPlayLevel: Creating play world package: /Game/FactoryLevel/UEDPIE_0_FactoryMap
+[2019.11.22-17.14.43:938][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033474s)
+[2019.11.22-17.14.43:938][955]LogAIModule: Creating AISystem for world FactoryMap
+[2019.11.22-17.14.43:938][955]LogPlayLevel: PIE: World Init took: (0.000481s)
+[2019.11.22-17.14.43:938][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FactoryLevel/FactoryMap.FactoryMap to /Game/FactoryLevel/UEDPIE_0_FactoryMap.FactoryMap (0.034223s)
+[2019.11.22-17.14.43:964][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2019.11.22-17.14.43:971][955]LogInit: XAudio2 using 'Dell S2716DG (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.22-17.14.43:979][955]LogInit: FAudioDevice initialized.
+[2019.11.22-17.14.43:980][955]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-17.14.44:020][955]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.22-17.14.44:030][955]LogWorld: Bringing World /Game/FactoryLevel/UEDPIE_0_FactoryMap.FactoryMap up for play (max tick rate 0) at 2019.11.22-11.14.44
+[2019.11.22-17.14.44:031][955]LogWorld: Bringing up level for play took: 0.009482
+[2019.11.22-17.14.44:047][955]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.11.22-17.14.44:048][955]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class Shooter_C already exists. Remove duplicates from the animation graph for this class.
+[2019.11.22-17.14.44:049][955]PIE: Play in editor start time for /Game/FactoryLevel/UEDPIE_0_FactoryMap 1.056
+[2019.11.22-17.14.44:054][955]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FactoryLevel/FactoryMap.FactoryMap:PersistentLevel' has LevelScriptBlueprint '/Game/FactoryLevel/FactoryMap.FactoryMap:PersistentLevel.FactoryMap' with GeneratedClass '/Game/FactoryLevel/FactoryMap.FactoryMap_C' with ClassGeneratedBy '/Game/FactoryLevel/FactoryMap.FactoryMap:PersistentLevel.FactoryMap'
+[2019.11.22-17.15.27:394][126]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FactoryLevel/FactoryMap.FactoryMap:PersistentLevel' has LevelScriptBlueprint '/Game/FactoryLevel/FactoryMap.FactoryMap:PersistentLevel.FactoryMap' with GeneratedClass '/Game/FactoryLevel/FactoryMap.FactoryMap_C' with ClassGeneratedBy '/Game/FactoryLevel/FactoryMap.FactoryMap:PersistentLevel.FactoryMap'
+[2019.11.22-17.15.27:395][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-17.15.27:423][126]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.22-17.15.27:424][126]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FactoryLevel/FactoryMap.FactoryMap:PersistentLevel' has LevelScriptBlueprint '/Game/FactoryLevel/FactoryMap.FactoryMap:PersistentLevel.FactoryMap' with GeneratedClass '/Game/FactoryLevel/FactoryMap.FactoryMap_C' with ClassGeneratedBy '/Game/FactoryLevel/FactoryMap.FactoryMap:PersistentLevel.FactoryMap'
+[2019.11.22-17.15.27:468][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-17.15.27:472][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.11.22-17.15.27:510][128]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.11.22-17.18.08:937][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.11.22-17.18.08:937][671]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FactoryLevel/FactoryMap' took 0.027
+[2019.11.22-17.28.09:559][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.11.22-17.28.09:559][453]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FactoryLevel/FactoryMap' took 0.024
+[2019.11.22-17.38.10:161][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.11.22-17.38.10:162][245]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FactoryLevel/FactoryMap' took 0.024
